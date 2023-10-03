@@ -1,0 +1,3 @@
+title = "Fabricated steel plate, A1-A3"
+declared_unit = "kg"
+max_gwp = 5

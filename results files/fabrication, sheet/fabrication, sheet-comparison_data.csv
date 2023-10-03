@@ -1,0 +1,18 @@
+source,manufacturer,plant,name,geography,ec3id,gwp.a1a2a3_mean,ap,ep,odp,pocp,label,notes
+Industry EPDs,,,Steel Recycling Institute 2016,US,,2.28,1.00E-02,0.00094,1.00E-08,0.18,Steel Recycling Institute 2016,
+Product EPDs,,,ClarkDietrich,US,,2.34,,,,,ClarkDietrich,
+Product EPDs,,,ClarkDietrich,US,,2.39,,,,,ClarkDietrich,
+Product EPDs,,,ClarkDietrich,US,,2.76,,,,,ClarkDietrich,
+Product EPDs,,,ClarkDietrich,US,,1.71,,,,,ClarkDietrich,
+Product EPDs,,,CEMCO,US,,2.25,,,,,CEMCO,
+Product EPDs,,,SCAFCO Steel Stud Company,US,,2.236,,,,,SCAFCO Steel Stud Company,
+Product EPDs,,,SCAFCO Steel Stud Company,US,,3.29,,,,,SCAFCO Steel Stud Company,
+Product EPDs,,,SCAFCO Steel Stud Company,US,,2.1,,,,,SCAFCO Steel Stud Company,
+Product EPDs,,,SCAFCO Steel Stud Company,US,,3.2,,,,,SCAFCO Steel Stud Company,
+Product EPDs,,,MBA Building Supplies,US,,1.9,,,,,MBA Building Supplies,
+Product EPDs,,,Marino\WARE,US,,2.41,,,,,Marino\WARE,
+Product EPDs,,,Marino\WARE,US,,2.41,,,,,Marino\WARE,
+Product EPDs,,,Marino\WARE,US,,2.41,,,,,Marino\WARE,
+Industry EPDs,,,Steel Deck Institute 2015,US,,2.37,0.0107,0.000482,4.55E-08,0.156,Steel Deck Institute 2015,
+EPiC,,,Cold rolled steel,Australia,,3.7,,,,,EPiC Cold rolled sheet,"Based on a hybrid LCA approach (i.e., process and input-output). This makes the scope different from process-based models."
+EPiC,,,Steel sheet corrugated,Australia,,5.5,,,,,EPiC Corrugated steel sheet,"Based on a hybrid LCA approach (i.e., process and input-output). This makes the scope different from process-based models."

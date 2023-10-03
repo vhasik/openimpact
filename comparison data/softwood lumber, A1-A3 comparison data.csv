@@ -1,0 +1,10 @@
+source,manufacturer,plant,name,geography,ec3id,gwp.a1a2a3_mean,ap,ep,odp,pocp,label,notes
+Industry EPDs,AWC & CWC,,North American Softwood Lumber,US,ec378bsp,63.1,,,,,"AWC & CWC, North American Softwood Lumber",
+Product EPDs,Stora Enso,,Classic Planed,US,ec3xnbqu,38.8,,,,,"Stora Enso, Classic Planed",
+Product EPDs,Stora Enso,,Classic Sawn,US,ec3ncy4e,33.9,,,,,"Stora Enso, Classic Sawn",
+Product EPDs,Roseburg Forest Products,,Softwood Lumber,US,ec3nwc87,44.7,,,,,"Roseburg Forest Products, Softwood Lumber",
+Product EPDs,Wood for Good,,Kiln Dried Sawn Timber,US,ec3qkt7n,51.6,,,,,"Wood for Good, Kiln Dried Sawn Timber",
+Product EPDs,Vastern Timber,,Brimstone Poplar Cladding and Decking Boards,US,ec3xe3j4,266,,,,,"Vastern Timber, Brimstone Poplar Cladding and Decking Boards",
+Product EPDs,Stora Enso,,ThermoWood ®,US,ec3gz3ce,78.3,,,,,"Stora Enso, ThermoWood ®",
+EPiC,,,,,,,,,,,EPiC Cold rolled sheet,"Based on a hybrid LCA approach (i.e., process and input-output). This makes the scope different from process-based models."
+EPiC,,,,,,,,,,,EPiC Corrugated steel sheet,"Based on a hybrid LCA approach (i.e., process and input-output). This makes the scope different from process-based models."

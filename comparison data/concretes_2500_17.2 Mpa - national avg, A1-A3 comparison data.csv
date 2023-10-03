@@ -1,0 +1,723 @@
+﻿Category,e.open_xpd_uuid,label,Plant,Manufacturer,gwp.a1a2a3_mean,gwp.a1a2a3_unit,ap.a1a2a3_mean,ap.a1a2a3_unit,ep_marine.a1a2a3_mean,ep_marine.a1a2a3_unit,odp.a1a2a3_mean,odp.a1a2a3_unit,pocp.a1a2a3_mean,pocp.a1a2a3_unit,rgwp.method,source,geography
+Concrete>>ReadyMix,EC328R3N,"CEMEX, Inglewood",Inglewood,CEMEX,398,kgCO2,1.58,kgSO2,0.47,kgN,0.00001,kgCFC11,34.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3P6U7S,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,286,kgCO2,0.81,kgSO2,0.32,kgN,0.0000066,kgCFC11,17.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3H3SGJ,"CEMEX, Irvine",Irvine,CEMEX,301,kgCO2,1.6,kgSO2,0.36,kgN,0.0000086,kgCFC11,36,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3YK9TH,"National Ready Mix, Vernon",Vernon,National Ready Mix,302,kgCO2,0.97,kgSO2,0.36,kgN,0.0000076,kgCFC11,20.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ETZF6,"CEMEX, Inglewood",Inglewood,CEMEX,373,kgCO2e,1.51,kgSO2,0.44,kgN,0.0000098,kgCFC11,33,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC33FW2E,"CEMEX, Pier 92 Amador",Pier 92 Amador,CEMEX,321,kgCO2,1.98,kgSO2,0.4,kgN,0.000012,kgCFC11,41.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3344QD,"National Ready Mix, Vernon",Vernon,National Ready Mix,365,kgCO2,1.11,kgSO2,0.43,kgN,0.0000092,kgCFC11,23.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GKT5C,"National Ready Mix, Vernon",Vernon,National Ready Mix,302,kgCO2,0.97,kgSO2,0.36,kgN,0.0000076,kgCFC11,20.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38HQEG,"CEMEX, Hollywood",Hollywood,CEMEX,310,kgCO2,1.67,kgSO2,0.38,kgN,0.000009,kgCFC11,37.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3RUNS7,"Eastern Concrete, Newark",Newark,Eastern Concrete,355,kgCO2,1.83,kgSO2,0.43,kgN,0.000008,kgCFC11,44.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3F66P0,"National Ready Mix, Artesia",Artesia,National Ready Mix,285,kgCO2,0.99,kgSO2,0.34,kgN,0.0000072,kgCFC11,21.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3BMSTE,"CEMEX, Santa Clara",Santa Clara,CEMEX,264,kgCO2,1.28,kgSO2,0.36,kgN,0.0000074,kgCFC11,28.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3R04D3,"CEMEX, San Juan Capistrano",San Juan Capistrano,CEMEX,330,kgCO2,1.95,kgSO2,0.39,kgN,0.0000087,kgCFC11,44.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3N3NPJ,"CEMEX, San Carlos",San Carlos,CEMEX,257,kgCO2,1.78,kgSO2,0.33,kgN,0.00001,kgCFC11,37.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3KK32T,"CEMEX, Los Angeles",Los Angeles,CEMEX,299,kgCO2,1.49,kgSO2,0.37,kgN,0.0000086,kgCFC11,33.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38F00Y,"CEMEX, Irvine",Irvine,CEMEX,360,kgCO2,1.13,kgSO2,0.42,kgN,0.000009,kgCFC11,24,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30NCNW,"CEMEX, Irvine",Irvine,CEMEX,301,kgCO2,1.6,kgSO2,0.36,kgN,0.0000086,kgCFC11,36,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30DWG4,"CEMEX, Hollywood",Hollywood,CEMEX,301,kgCO2,1.5,kgSO2,0.37,kgN,0.0000086,kgCFC11,33.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3U78FD,"CEMEX, Compton",Compton,CEMEX,314,kgCO2,1.62,kgSO2,0.38,kgN,0.0000087,kgCFC11,36.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3FNEJ9,"CEMEX, Orange",Orange,CEMEX,318,kgCO2,1.78,kgSO2,0.38,kgN,0.0000088,kgCFC11,40.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC32H2TH,"CEMEX, San Juan Capistrano",San Juan Capistrano,CEMEX,390,kgCO2,1.48,kgSO2,0.45,kgN,0.0000091,kgCFC11,32.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PH9FN,"CEMEX, Santa Clara",Santa Clara,CEMEX,326,kgCO2,1.04,kgSO2,0.42,kgN,0.0000081,kgCFC11,21.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DCP9E,"CEMEX, Inglewood",Inglewood,CEMEX,390,kgCO2,1.34,kgSO2,0.45,kgN,0.0000095,kgCFC11,29.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ZP0MB,"CEMEX, San Juan Capistrano",San Juan Capistrano,CEMEX,320,kgCO2,1.77,kgSO2,0.38,kgN,0.0000082,kgCFC11,40.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3EC40W,"CEMEX, Irvine",Irvine,CEMEX,291,kgCO2,1.44,kgSO2,0.35,kgN,0.0000081,kgCFC11,32.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PR295,"CEMEX, Tracy.",Tracy.,CEMEX,350,kgCO2,1.38,kgSO2,0.42,kgN,0.0000085,kgCFC11,32.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WQUZ5,"CEMEX, West Sacramento Terminal",West Sacramento Terminal,CEMEX,302,kgCO2,1.06,kgSO2,0.36,kgN,0.0000075,kgCFC11,23.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QZRS2,"CEMEX, Mission Valley",Mission Valley,CEMEX,280,kgCO2,1.29,kgSO2,0.35,kgN,0.0000079,kgCFC11,28.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3NJQUQ,"CEMEX, Mission Valley",Mission Valley,CEMEX,254,kgCO2,1.69,kgSO2,0.33,kgN,0.0000079,kgCFC11,37.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3YP8DR,"CEMEX, Inglewood",Inglewood,CEMEX,306,kgCO2,1.57,kgSO2,0.37,kgN,0.0000085,kgCFC11,35.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3FZ6BW,"CEMEX, Oakland",Oakland,CEMEX,331,kgCO2,1.08,kgSO2,0.43,kgN,0.0000082,kgCFC11,23,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3CFGS2,"Central Concrete, Bode C",Bode C,Central Concrete,288,kgCO2,1.1,kgSO2,0.37,kgN,0.0000082,kgCFC11,23.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30CFQG,"Central Concrete, Redwood City B",Redwood City B,Central Concrete,288,kgCO2,1.29,kgSO2,0.37,kgN,0.0000089,kgCFC11,27.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QB5P8,"CTI Ready Mix, CTI Ready Mix West Des Moines",CTI Ready Mix West Des Moines,CTI Ready Mix,244,kgCO2e,1.05,kgSO2,0.27,kgN,0.0000055,kgCFC11,23.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30HW82,"CTI Ready Mix, CTI Ready Mix Elkhart",CTI Ready Mix Elkhart,CTI Ready Mix,227,kgCO2e,0.86,kgSO2,0.28,kgN,0.0000056,kgCFC11,18.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC37FFFU,"CTI Ready Mix, CTI Ready Mix Carlisle",CTI Ready Mix Carlisle,CTI Ready Mix,227,kgCO2e,0.87,kgSO2,0.27,kgN,0.0000055,kgCFC11,18.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3G7ERU,"CEMEX, Pier 92 Amador",Pier 92 Amador,CEMEX,258,kgCO2e,1.8,kgSO2,0.32,kgN,0.00001,kgCFC11,37.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC398AEK,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,176,kgCO2e,1.37,kgSO2,0.25,kgN,0.0000053,kgCFC11,32.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QKPC3,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,309,kgCO2,1.16,kgSO2,0.38,kgN,0.0000093,kgCFC11,22.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QT032,"CEMEX, South Fresno",South Fresno,CEMEX,340,kgCO2,1.11,kgSO2,0.4,kgN,0.0000085,kgCFC11,23.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TRKBN,"Thomas Concrete, Charlotte Graham Street",Charlotte Graham Street,Thomas Concrete,308,kgCO2,1.03,kgSO2,0.43,kgN,0.0000079,kgCFC11,21.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3NXR4U,"National Ready Mix, Vernon",Vernon,National Ready Mix,364,kgCO2e,1.09,kgSO2,0.43,kgN,0.0000092,kgCFC11,22.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3S4HZA,"National Ready Mix, Vernon",Vernon,National Ready Mix,365,kgCO2e,1.11,kgSO2,0.43,kgN,0.0000092,kgCFC11,23.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36YZPD,"National Ready Mix, Vernon",Vernon,National Ready Mix,365,kgCO2e,1.11,kgSO2,0.43,kgN,0.0000092,kgCFC11,23.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3K8PTA,"National Ready Mix, Vernon",Vernon,National Ready Mix,316,kgCO2e,1,kgSO2,0.37,kgN,0.0000079,kgCFC11,21.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GMEP3,"National Ready Mix, Vernon",Vernon,National Ready Mix,365,kgCO2e,1.11,kgSO2,0.43,kgN,0.0000092,kgCFC11,23.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3N4PD2,"National Ready Mix, Vernon",Vernon,National Ready Mix,306,kgCO2e,0.99,kgSO2,0.36,kgN,0.0000077,kgCFC11,21.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC384B5Q,"National Ready Mix, Vernon",Vernon,National Ready Mix,316,kgCO2e,1.01,kgSO2,0.37,kgN,0.000008,kgCFC11,21.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39PEMK,"National Ready Mix, Vernon",Vernon,National Ready Mix,365,kgCO2e,1.11,kgSO2,0.43,kgN,0.0000092,kgCFC11,23.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3G5G14,"National Ready Mix, Artesia",Artesia,National Ready Mix,445,kgCO2e,1.84,kgSO2,0.53,kgN,0.000013,kgCFC11,38.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JGQU3,"National Ready Mix, Artesia",Artesia,National Ready Mix,344,kgCO2e,1.11,kgSO2,0.41,kgN,0.0000087,kgCFC11,23.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QATR6,"CEMEX, Oakland",Oakland,CEMEX,394,kgCO2e,1.23,kgSO2e,0.5,kgNe,0.0000098,kgCFC11e,25.9,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC392700,"CEMEX, Inglewood",Inglewood,CEMEX,388,kgCO2e,1.32,kgSO2,0.45,kgN,0.0000095,kgCFC11,28.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39TAFB,"CEMEX, Inglewood",Inglewood,CEMEX,385,kgCO2e,1.28,kgSO2,0.45,kgN,0.0000096,kgCFC11,27.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PKZ3P,"CEMEX, Inglewood",Inglewood,CEMEX,411,kgCO2e,1.33,kgSO2,0.48,kgN,0.00001,kgCFC11,28.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3E27BE,"RiverBend Materials, Wildish",Wildish,RiverBend Materials,288,kgCO2e,0.89,kgSO2,0.35,kgN,0.0000075,kgCFC11,18.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3NAD3X,"RiverBend Materials, Wildish",Wildish,RiverBend Materials,294,kgCO2e,0.9,kgSO2,0.36,kgN,0.0000076,kgCFC11,18.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3HHDZG,"National Ready Mix, Vernon",Vernon,National Ready Mix,428,kgCO2e,1.26,kgSO2,0.5,kgN,0.000011,kgCFC11,26,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34T8QH,"National Ready Mix, Vernon",Vernon,National Ready Mix,415,kgCO2e,1.23,kgSO2,0.49,kgN,0.00001,kgCFC11,25,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3RZ4ME,"National Ready Mix, Vernon",Vernon,National Ready Mix,368,kgCO2e,1.13,kgSO2,0.43,kgN,0.0000092,kgCFC11,23.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3B6FFC,"National Ready Mix, Vernon",Vernon,National Ready Mix,394,kgCO2e,1.17,kgSO2,0.46,kgN,0.0000099,kgCFC11,24.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DZ3T8,"National Ready Mix, Vernon",Vernon,National Ready Mix,332,kgCO2e,1.05,kgSO2,0.39,kgN,0.0000083,kgCFC11,22.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3U740P,"National Ready Mix, Vernon",Vernon,National Ready Mix,350,kgCO2e,1.11,kgSO2,0.41,kgN,0.0000087,kgCFC11,23.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GAK2H,"National Ready Mix, Vernon",Vernon,National Ready Mix,340,kgCO2e,1.07,kgSO2,0.4,kgN,0.0000085,kgCFC11,22.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC31KND8,"National Ready Mix, Vernon",Vernon,National Ready Mix,408,kgCO2e,1.22,kgSO2,0.48,kgN,0.00001,kgCFC11,25.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC325YZK,"National Ready Mix, Vernon",Vernon,National Ready Mix,406,kgCO2e,1.2,kgSO2,0.48,kgN,0.00001,kgCFC11,24.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3THTNT,"National Ready Mix, Vernon",Vernon,National Ready Mix,351,kgCO2e,1.09,kgSO2,0.41,kgN,0.0000088,kgCFC11,23,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TP84R,"National Ready Mix, Vernon",Vernon,National Ready Mix,365,kgCO2e,1.1,kgSO2,0.43,kgN,0.0000092,kgCFC11,23,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3K9B4U,"National Ready Mix, Vernon",Vernon,National Ready Mix,366,kgCO2e,1.11,kgSO2,0.43,kgN,0.0000092,kgCFC11,23.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34CUPP,"National Ready Mix, Vernon",Vernon,National Ready Mix,365,kgCO2e,1.11,kgSO2,0.43,kgN,0.0000092,kgCFC11,23.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3D1WAG,"National Ready Mix, Vernon",Vernon,National Ready Mix,316,kgCO2e,1.01,kgSO2,0.37,kgN,0.000008,kgCFC11,21.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WH09M,"National Ready Mix, Vernon",Vernon,National Ready Mix,365,kgCO2e,1.11,kgSO2,0.43,kgN,0.0000092,kgCFC11,23.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34KBZ0,"National Ready Mix, Vernon",Vernon,National Ready Mix,365,kgCO2e,1.11,kgSO2,0.43,kgN,0.0000092,kgCFC11,23.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TRJAA,"National Ready Mix, Vernon",Vernon,National Ready Mix,391,kgCO2e,1.17,kgSO2,0.46,kgN,0.0000098,kgCFC11,24.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Y2Z89,"National Ready Mix, Vernon",Vernon,National Ready Mix,322,kgCO2e,1.01,kgSO2,0.38,kgN,0.0000081,kgCFC11,21.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3NSKRR,"National Ready Mix, Vernon",Vernon,National Ready Mix,346,kgCO2e,1.06,kgSO2,0.41,kgN,0.0000087,kgCFC11,22.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3FQSZX,"National Ready Mix, Vernon",Vernon,National Ready Mix,299,kgCO2e,0.96,kgSO2,0.35,kgN,0.0000075,kgCFC11,20.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GJDH9,"National Ready Mix, Vernon",Vernon,National Ready Mix,307,kgCO2e,0.99,kgSO2,0.36,kgN,0.0000075,kgCFC11,20.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3N8MJM,"National Ready Mix, Vernon",Vernon,National Ready Mix,352,kgCO2e,1.08,kgSO2,0.41,kgN,0.0000089,kgCFC11,22.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3CN3B8,"National Ready Mix, Vernon",Vernon,National Ready Mix,284,kgCO2e,0.93,kgSO2,0.33,kgN,0.0000071,kgCFC11,20,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Q3KES,"National Ready Mix, Vernon",Vernon,National Ready Mix,339,kgCO2e,1.05,kgSO2,0.4,kgN,0.0000084,kgCFC11,21.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3FE2W7,"National Ready Mix, Vernon",Vernon,National Ready Mix,334,kgCO2e,1.03,kgSO2,0.39,kgN,0.0000084,kgCFC11,21.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JTAMA,"National Ready Mix, Vernon",Vernon,National Ready Mix,290,kgCO2e,0.94,kgSO2,0.34,kgN,0.0000073,kgCFC11,20.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3BGUJ0,"National Ready Mix, Vernon",Vernon,National Ready Mix,289,kgCO2e,0.94,kgSO2,0.34,kgN,0.0000073,kgCFC11,20,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38NCCQ,"National Ready Mix, Vernon",Vernon,National Ready Mix,274,kgCO2e,0.91,kgSO2,0.32,kgN,0.0000069,kgCFC11,19.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PS2U3,"National Ready Mix, Vernon",Vernon,National Ready Mix,367,kgCO2e,1.21,kgSO2,0.43,kgN,0.000009,kgCFC11,25,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3G4H8Q,"National Ready Mix, South Gate",South Gate,National Ready Mix,422,kgCO2e,2.24,kgSO2,0.51,kgN,0.000014,kgCFC11,46.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3S8N5F,"National Ready Mix, South Gate",South Gate,National Ready Mix,369,kgCO2e,1.22,kgSO2,0.44,kgN,0.000009,kgCFC11,25.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3M2F7Z,"National Ready Mix, South Gate",South Gate,National Ready Mix,356,kgCO2e,1.19,kgSO2,0.42,kgN,0.0000087,kgCFC11,25.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3804F7,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,380,kgCO2e,1.27,kgSO2,0.45,kgN,0.0000093,kgCFC11,27.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3J4HBZ,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,417,kgCO2e,1.33,kgSO2,0.49,kgN,0.00001,kgCFC11,28.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30YF57,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,377,kgCO2e,1.25,kgSO2,0.45,kgN,0.0000093,kgCFC11,27,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3SFG90,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,297,kgCO2e,1.09,kgSO2,0.35,kgN,0.0000072,kgCFC11,24.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3STMH0,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,377,kgCO2e,1.25,kgSO2,0.45,kgN,0.0000093,kgCFC11,27,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3RPJBB,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,439,kgCO2e,1.38,kgSO2,0.52,kgN,0.000011,kgCFC11,29.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3UYBMC,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,312,kgCO2e,1.11,kgSO2,0.37,kgN,0.0000076,kgCFC11,24.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DJ4P8,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,346,kgCO2e,1.17,kgSO2,0.41,kgN,0.0000085,kgCFC11,25.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3BS4W3,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,383,kgCO2e,1.4,kgSO2,0.45,kgN,0.0000091,kgCFC11,30.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC35YRWY,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,287,kgCO2,1.06,kgSO2,0.34,kgN,0.000007,kgCFC11,23.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3T9A7D,"National Ready Mix, Moorpark",Moorpark,National Ready Mix,403,kgCO2e,1.16,kgSO2,0.48,kgN,0.00001,kgCFC11,24,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WZSSU,"National Ready Mix, Moorpark",Moorpark,National Ready Mix,365,kgCO2e,1.1,kgSO2,0.43,kgN,0.0000092,kgCFC11,23.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3BN77Z,"National Ready Mix, Moorpark",Moorpark,National Ready Mix,348,kgCO2e,1.09,kgSO2,0.41,kgN,0.0000087,kgCFC11,23.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QWM83,"National Ready Mix, Moorpark",Moorpark,National Ready Mix,342,kgCO2e,1.01,kgSO2,0.41,kgN,0.0000088,kgCFC11,21.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3UU0K0,"National Ready Mix, Moorpark",Moorpark,National Ready Mix,379,kgCO2e,1.35,kgSO2,0.44,kgN,0.000009,kgCFC11,28.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ARTDT,"National Ready Mix, Moorpark",Moorpark,National Ready Mix,361,kgCO2e,1.06,kgSO2,0.43,kgN,0.0000092,kgCFC11,22.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3D5BZ6,"National Ready Mix, Moorpark",Moorpark,National Ready Mix,295,kgCO2,0.92,kgSO2,0.35,kgN,0.0000075,kgCFC11,19.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3W1ZUB,"National Ready Mix, Moorpark",Moorpark,National Ready Mix,361,kgCO2e,1.06,kgSO2,0.43,kgN,0.0000092,kgCFC11,22.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC33EX0E,"National Ready Mix, Irwindale",Irwindale,National Ready Mix,403,kgCO2,1.16,kgSO2,0.48,kgN,0.00001,kgCFC11,24,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3K2BHK,"National Ready Mix, Irwindale",Irwindale,National Ready Mix,361,kgCO2,1.05,kgSO2,0.43,kgN,0.0000093,kgCFC11,22,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3EPSEF,"National Ready Mix, Vernon",Vernon,National Ready Mix,446,kgCO2e,1.34,kgSO2,0.52,kgN,0.000011,kgCFC11,28,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3S08AT,"National Ready Mix, Irwindale",Irwindale,National Ready Mix,364,kgCO2e,1.17,kgSO2,0.44,kgN,0.0000091,kgCFC11,24.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC370U72,"National Ready Mix, Irwindale",Irwindale,National Ready Mix,341,kgCO2e,1,kgSO2,0.41,kgN,0.0000088,kgCFC11,20.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3HRX35,"National Ready Mix, Irwindale",Irwindale,National Ready Mix,365,kgCO2e,1.09,kgSO2,0.44,kgN,0.0000093,kgCFC11,23,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34NMAK,"National Ready Mix, Irwindale",Irwindale,National Ready Mix,425,kgCO2e,1.22,kgSO2,0.51,kgN,0.000011,kgCFC11,25.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JP3JK,"National Ready Mix, Irwindale",Irwindale,National Ready Mix,361,kgCO2e,1.05,kgSO2,0.43,kgN,0.0000093,kgCFC11,22,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3RSYKM,"National Ready Mix, Irvine",Irvine,National Ready Mix,379,kgCO2,1.25,kgSO2,0.44,kgN,0.0000092,kgCFC11,27,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3HYMRB,"National Ready Mix, Irvine",Irvine,National Ready Mix,441,kgCO2e,1.39,kgSO2,0.52,kgN,0.000011,kgCFC11,29.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC306964,"National Ready Mix, Irvine",Irvine,National Ready Mix,438,kgCO2e,1.38,kgSO2,0.52,kgN,0.000011,kgCFC11,29,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3AD3WR,"National Ready Mix, Irvine",Irvine,National Ready Mix,381,kgCO2e,1.25,kgSO2,0.45,kgN,0.0000095,kgCFC11,26.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DY53T,"National Ready Mix, Irvine",Irvine,National Ready Mix,419,kgCO2e,1.33,kgSO2,0.5,kgN,0.00001,kgCFC11,28,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36SAAM,"National Ready Mix, Irvine",Irvine,National Ready Mix,352,kgCO2e,1.18,kgSO2,0.42,kgN,0.0000086,kgCFC11,25.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GE1EE,"National Ready Mix, Irvine",Irvine,National Ready Mix,381,kgCO2e,1.26,kgSO2,0.45,kgN,0.0000094,kgCFC11,26.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3W4XM8,"National Ready Mix, Irvine",Irvine,National Ready Mix,362,kgCO2e,1.2,kgSO2,0.43,kgN,0.000009,kgCFC11,25.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC390KJE,"National Ready Mix, Irvine",Irvine,National Ready Mix,363,kgCO2e,1.23,kgSO2,0.43,kgN,0.0000089,kgCFC11,26.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC35CKM4,"National Ready Mix, Glendale",Glendale,National Ready Mix,351,kgCO2e,1.13,kgSO2,0.41,kgN,0.0000087,kgCFC11,24.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3XJENS,"National Ready Mix, Glendale",Glendale,National Ready Mix,366,kgCO2e,1.12,kgSO2,0.43,kgN,0.0000093,kgCFC11,23.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC37AYAY,"National Ready Mix, Glendale",Glendale,National Ready Mix,343,kgCO2e,1.07,kgSO2,0.4,kgN,0.0000085,kgCFC11,22,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TJEMU,"National Ready Mix, Glendale",Glendale,National Ready Mix,300,kgCO2e,0.98,kgSO2,0.35,kgN,0.0000076,kgCFC11,20.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC31PJGA,"National Ready Mix, Glendale",Glendale,National Ready Mix,291,kgCO2e,0.95,kgSO2,0.34,kgN,0.0000073,kgCFC11,20.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3YCRDF,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,354,kgCO2e,1.16,kgSO2,0.41,kgN,0.0000086,kgCFC11,24.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3BYJP2,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,349,kgCO2e,1.1,kgSO2,0.41,kgN,0.0000087,kgCFC11,23,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JKU7G,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,294,kgCO2e,0.99,kgSO2,0.34,kgN,0.0000073,kgCFC11,21.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3APDP4,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,277,kgCO2e,0.95,kgSO2,0.32,kgN,0.0000069,kgCFC11,20.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3G7SJK,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,295,kgCO2e,0.98,kgSO2,0.34,kgN,0.0000073,kgCFC11,21.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC35ZTX9,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,306,kgCO2,1.01,kgSO2,0.36,kgN,0.0000076,kgCFC11,21.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GEGB0,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,310,kgCO2,1.03,kgSO2,0.36,kgN,0.0000075,kgCFC11,21.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3F0FP1,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,305,kgCO2,1.01,kgSO2,0.36,kgN,0.0000076,kgCFC11,21.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3HGDKF,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,376,kgCO2,1.31,kgSO2,0.44,kgN,0.000009,kgCFC11,27.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3XMPBB,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,368,kgCO2e,1.14,kgSO2,0.43,kgN,0.0000092,kgCFC11,24,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DJKM9,"National Ready Mix, Artesia",Artesia,National Ready Mix,416,kgCO2e,1.24,kgSO2,0.49,kgN,0.00001,kgCFC11,25.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3SCRMY,"National Ready Mix, Artesia",Artesia,National Ready Mix,366,kgCO2e,1.12,kgSO2,0.43,kgN,0.0000093,kgCFC11,23.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WUJQD,"National Ready Mix, Artesia",Artesia,National Ready Mix,351,kgCO2e,1.09,kgSO2,0.41,kgN,0.0000088,kgCFC11,23.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3BPNCD,"National Ready Mix, Artesia",Artesia,National Ready Mix,367,kgCO2e,1.12,kgSO2,0.43,kgN,0.0000092,kgCFC11,23.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Z7F12,"National Ready Mix, Artesia",Artesia,National Ready Mix,365,kgCO2e,1.1,kgSO2,0.43,kgN,0.0000092,kgCFC11,23,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34URFS,"National Ready Mix, Artesia",Artesia,National Ready Mix,368,kgCO2e,1.13,kgSO2,0.43,kgN,0.0000093,kgCFC11,23.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3UJ61X,"National Ready Mix, Artesia",Artesia,National Ready Mix,367,kgCO2e,1.12,kgSO2,0.43,kgN,0.0000093,kgCFC11,23.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC32FTW8,"National Ready Mix, Artesia",Artesia,National Ready Mix,347,kgCO2,1.07,kgSO2,0.41,kgN,0.0000088,kgCFC11,22.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JX259,"National Ready Mix, Artesia",Artesia,National Ready Mix,308,kgCO2e,1,kgSO2,0.36,kgN,0.0000076,kgCFC11,20.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3821JG,"National Ready Mix, Artesia",Artesia,National Ready Mix,344,kgCO2e,1.11,kgSO2,0.41,kgN,0.0000087,kgCFC11,23.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3HRT65,"National Ready Mix, Artesia",Artesia,National Ready Mix,300,kgCO2e,0.97,kgSO2,0.35,kgN,0.0000076,kgCFC11,20.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC31R5T5,"National Ready Mix, Artesia",Artesia,National Ready Mix,315,kgCO2e,1.01,kgSO2,0.37,kgN,0.0000079,kgCFC11,21.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38KUWK,"National Ready Mix, Artesia",Artesia,National Ready Mix,303,kgCO2e,0.98,kgSO2,0.36,kgN,0.0000076,kgCFC11,20.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC31B3X1,"National Ready Mix, Artesia",Artesia,National Ready Mix,300,kgCO2e,0.98,kgSO2,0.35,kgN,0.0000075,kgCFC11,21,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3N42KU,"Eastern Concrete, West Nyack",West Nyack,Eastern Concrete,297,kgCO2,1.07,kgSO2,0.35,kgN,0.000008,kgCFC11,23.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC302KA2,"Eastern Concrete, West Nyack",West Nyack,Eastern Concrete,354,kgCO2,1.22,kgSO2,0.42,kgN,0.0000094,kgCFC11,26.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3YSA8S,"Eastern Concrete, West Nyack",West Nyack,Eastern Concrete,300,kgCO2,1.1,kgSO2,0.35,kgN,0.0000078,kgCFC11,24.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DW1X4,"Eastern Concrete, West Nyack",West Nyack,Eastern Concrete,313,kgCO2,1.13,kgSO2,0.37,kgN,0.0000083,kgCFC11,24.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JNXF3,"Eastern Concrete, West Nyack",West Nyack,Eastern Concrete,296,kgCO2,1.08,kgSO2,0.35,kgN,0.000008,kgCFC11,23.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3F4JHA,"Eastern Concrete, West Nyack",West Nyack,Eastern Concrete,351,kgCO2,1.19,kgSO2,0.42,kgN,0.0000095,kgCFC11,25.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC325X9G,"National Ready Mix, Van Nuys",Van Nuys,National Ready Mix,363,kgCO2e,1.07,kgSO2,0.43,kgN,0.0000092,kgCFC11,22.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3MM8RR,"National Ready Mix, Van Nuys",Van Nuys,National Ready Mix,422,kgCO2e,1.19,kgSO2,0.5,kgN,0.000011,kgCFC11,24.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC33TWTM,"National Ready Mix, Van Nuys",Van Nuys,National Ready Mix,346,kgCO2e,1.06,kgSO2,0.41,kgN,0.0000087,kgCFC11,22.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34PKP6,"National Ready Mix, Van Nuys",Van Nuys,National Ready Mix,333,kgCO2,0.97,kgSO2,0.4,kgN,0.0000085,kgCFC11,19.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36DRAE,"National Ready Mix, Van Nuys",Van Nuys,National Ready Mix,369,kgCO2e,1.23,kgSO2,0.44,kgN,0.000009,kgCFC11,25.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36G9KM,"National Ready Mix, Van Nuys",Van Nuys,National Ready Mix,359,kgCO2,1.03,kgSO2,0.43,kgN,0.0000093,kgCFC11,21.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3C1AHB,"National Ready Mix, Van Nuys",Van Nuys,National Ready Mix,402,kgCO2,1.14,kgSO2,0.48,kgN,0.00001,kgCFC11,23.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30J014,"National Ready Mix, Van Nuys",Van Nuys,National Ready Mix,359,kgCO2,1.03,kgSO2,0.43,kgN,0.0000093,kgCFC11,21.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3MMBAN,"National Ready Mix, Van Nuys",Van Nuys,National Ready Mix,359,kgCO2,1.03,kgSO2,0.43,kgN,0.0000093,kgCFC11,21.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Q9BNA,"National Ready Mix, Van Nuys",Van Nuys,National Ready Mix,301,kgCO2e,0.92,kgSO2,0.36,kgN,0.0000076,kgCFC11,18.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC35K6T0,"National Ready Mix, Van Nuys",Van Nuys,National Ready Mix,294,kgCO2e,0.9,kgSO2,0.35,kgN,0.0000076,kgCFC11,18.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Z0XAG,"National Ready Mix, Van Nuys",Van Nuys,National Ready Mix,340,kgCO2e,0.98,kgSO2,0.41,kgN,0.0000088,kgCFC11,20.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3C5DGW,"National Ready Mix, Van Nuys",Van Nuys,National Ready Mix,401,kgCO2e,1.13,kgSO2,0.48,kgN,0.00001,kgCFC11,23.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ED7MA,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,280,kgCO2e,1.28,kgSO2,0.35,kgN,0.0000098,kgCFC11,23.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30QUGR,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,351,kgCO2e,1.13,kgSO2,0.42,kgN,0.0000087,kgCFC11,24.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DM6BT,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,368,kgCO2e,1.13,kgSO2,0.43,kgN,0.0000093,kgCFC11,23.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36NS7R,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,368,kgCO2e,1.13,kgSO2,0.43,kgN,0.0000093,kgCFC11,23.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TN7GQ,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,367,kgCO2e,1.13,kgSO2,0.43,kgN,0.0000093,kgCFC11,23.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC35RKWU,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,310,kgCO2e,1.02,kgSO2,0.36,kgN,0.0000076,kgCFC11,21.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Z2J2H,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,301,kgCO2e,0.99,kgSO2,0.36,kgN,0.0000076,kgCFC11,21.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3SQWJ2,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,348,kgCO2e,1.08,kgSO2,0.41,kgN,0.0000088,kgCFC11,22.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3NJH9P,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,410,kgCO2,1.24,kgSO2,0.48,kgN,0.00001,kgCFC11,26,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36N4MX,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,429,kgCO2,1.27,kgSO2,0.51,kgN,0.000011,kgCFC11,26.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3FTDHZ,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,341,kgCO2e,1.07,kgSO2,0.4,kgN,0.0000085,kgCFC11,22.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3C4EBW,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,204,kgCO2e,0.99,kgSO2,0.26,kgN,0.0000071,kgCFC11,18.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36TM1A,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,407,kgCO2,1.21,kgSO2,0.48,kgN,0.00001,kgCFC11,25.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3H88ZA,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,372,kgCO2,1.26,kgSO2,0.44,kgN,0.0000091,kgCFC11,26.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC340K36,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,434,kgCO2e,2.38,kgSO2,0.52,kgN,0.000015,kgCFC11,50.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC35U2XF,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,292,kgCO2e,0.97,kgSO2,0.35,kgN,0.0000074,kgCFC11,20.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC31ESHJ,"National Ready Mix, South Gate",South Gate,National Ready Mix,374,kgCO2e,1.19,kgSO2,0.44,kgN,0.0000092,kgCFC11,25.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3HARQT,"National Ready Mix, South Gate",South Gate,National Ready Mix,434,kgCO2e,1.33,kgSO2,0.51,kgN,0.000011,kgCFC11,27.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30XC8U,"National Ready Mix, South Gate",South Gate,National Ready Mix,417,kgCO2e,1.32,kgSO2,0.49,kgN,0.00001,kgCFC11,27.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3C9YDT,"National Ready Mix, South Gate",South Gate,National Ready Mix,374,kgCO2,1.21,kgSO2,0.44,kgN,0.0000093,kgCFC11,25.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3B7JUF,"National Ready Mix, South Gate",South Gate,National Ready Mix,374,kgCO2,1.21,kgSO2,0.44,kgN,0.0000093,kgCFC11,25.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DN7JW,"National Ready Mix, South Gate",South Gate,National Ready Mix,374,kgCO2,1.21,kgSO2,0.44,kgN,0.0000093,kgCFC11,25.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC33N2FJ,"National Ready Mix, South Gate",South Gate,National Ready Mix,316,kgCO2,1.09,kgSO2,0.37,kgN,0.0000076,kgCFC11,23.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3NQWXU,"National Ready Mix, South Gate",South Gate,National Ready Mix,348,kgCO2,1.15,kgSO2,0.41,kgN,0.0000085,kgCFC11,24.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34XPTS,"Eastern Concrete, Newark",Newark,Eastern Concrete,406,kgCO2,2.01,kgSO2,0.49,kgN,0.000009,kgCFC11,48.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3R70XY,"Eastern Concrete, Newark",Newark,Eastern Concrete,339,kgCO2,1.71,kgSO2,0.41,kgN,0.0000075,kgCFC11,41.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3768R9,"Eastern Concrete, Newark",Newark,Eastern Concrete,327,kgCO2,1.63,kgSO2,0.41,kgN,0.0000074,kgCFC11,39.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WMCWC,"Eastern Concrete, Newark",Newark,Eastern Concrete,392,kgCO2,1.92,kgSO2,0.48,kgN,0.0000088,kgCFC11,46.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC37FXMC,"Eastern Concrete, Newark",Newark,Eastern Concrete,356,kgCO2,1.79,kgSO2,0.43,kgN,0.0000079,kgCFC11,43.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34J1TQ,"Eastern Concrete, Newark",Newark,Eastern Concrete,397,kgCO2,1.95,kgSO2,0.49,kgN,0.000009,kgCFC11,46.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36CQJB,"Eastern Concrete, Newark",Newark,Eastern Concrete,406,kgCO2,2.02,kgSO2,0.49,kgN,0.000009,kgCFC11,48.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36FYXJ,"Eastern Concrete, Newark",Newark,Eastern Concrete,316,kgCO2,1.61,kgSO2,0.39,kgN,0.000007,kgCFC11,38.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3BUGST,"Eastern Concrete, Newark",Newark,Eastern Concrete,342,kgCO2,1.73,kgSO2,0.42,kgN,0.0000075,kgCFC11,41.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC303DPA,"Eastern Concrete, Newark",Newark,Eastern Concrete,328,kgCO2,1.66,kgSO2,0.4,kgN,0.0000072,kgCFC11,40.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39PHS0,"Eastern Concrete, Newark",Newark,Eastern Concrete,409,kgCO2,2.03,kgSO2,0.5,kgN,0.0000091,kgCFC11,49,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WQAWC,"Eastern Concrete, Newark",Newark,Eastern Concrete,339,kgCO2,1.71,kgSO2,0.41,kgN,0.0000075,kgCFC11,41.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34Y5GS,"Eastern Concrete, Newark",Newark,Eastern Concrete,339,kgCO2,1.71,kgSO2,0.41,kgN,0.0000075,kgCFC11,41.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Q2EE3,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,234,kgCO2,1.46,kgSO2,0.31,kgN,0.0000069,kgCFC11,34.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39Y4DR,"Eastern Concrete, Howell",Howell,Eastern Concrete,353,kgCO2,1.76,kgSO2,0.43,kgN,0.0000076,kgCFC11,41.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34X1RD,"Eastern Concrete, Broadway",Broadway,Eastern Concrete,325,kgCO2,1.27,kgSO2,0.39,kgN,0.0000075,kgCFC11,28.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Q91P0,"Eastern Concrete, Broadway",Broadway,Eastern Concrete,380,kgCO2,1.41,kgSO2,0.46,kgN,0.000009,kgCFC11,31.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30GSF4,"Eastern Concrete, Howell",Howell,Eastern Concrete,413,kgCO2,2.01,kgSO2,0.5,kgN,0.0000091,kgCFC11,47.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3BQPS4,"Eastern Concrete, Howell",Howell,Eastern Concrete,352,kgCO2,1.76,kgSO2,0.42,kgN,0.0000076,kgCFC11,41.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3RY1QS,"Eastern Concrete, Howell",Howell,Eastern Concrete,364,kgCO2,1.85,kgSO2,0.43,kgN,0.0000076,kgCFC11,44.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3A9DSY,"Eastern Concrete, Howell",Howell,Eastern Concrete,419,kgCO2,2.05,kgSO2,0.5,kgN,0.0000089,kgCFC11,49.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3KPS16,"Eastern Concrete, Bogota",Bogota,Eastern Concrete,389,kgCO2,1.69,kgSO2,0.47,kgN,0.0000088,kgCFC11,39.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC363J5M,"Eastern Concrete, Howell",Howell,Eastern Concrete,429,kgCO2,2.12,kgSO2,0.51,kgN,0.0000091,kgCFC11,50.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC33BP7P,"Eastern Concrete, Howell",Howell,Eastern Concrete,368,kgCO2,1.83,kgSO2,0.44,kgN,0.000008,kgCFC11,43.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3RFC0T,"Eastern Concrete, Broadway",Broadway,Eastern Concrete,339,kgCO2,1.31,kgSO2,0.41,kgN,0.0000079,kgCFC11,29.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3W6D7N,"Eastern Concrete, Bogota",Bogota,Eastern Concrete,341,kgCO2,1.5,kgSO2,0.42,kgN,0.0000079,kgCFC11,35,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3S7X9W,"Eastern Concrete, Howell",Howell,Eastern Concrete,352,kgCO2,1.76,kgSO2,0.42,kgN,0.0000076,kgCFC11,41.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3AX6N6,"Eastern Concrete, Howell",Howell,Eastern Concrete,352,kgCO2,1.76,kgSO2,0.42,kgN,0.0000076,kgCFC11,41.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GTT8S,"Eastern Concrete, Broadway",Broadway,Eastern Concrete,325,kgCO2,1.28,kgSO2,0.39,kgN,0.0000075,kgCFC11,28.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3M4R8S,"Eastern Concrete, Bogota",Bogota,Eastern Concrete,326,kgCO2,1.45,kgSO2,0.4,kgN,0.0000075,kgCFC11,33.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC31R2AB,"Eastern Concrete, Howell",Howell,Eastern Concrete,354,kgCO2,1.77,kgSO2,0.43,kgN,0.0000076,kgCFC11,42,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC37TS5H,"Eastern Concrete, Broadway",Broadway,Eastern Concrete,327,kgCO2,1.29,kgSO2,0.39,kgN,0.0000075,kgCFC11,28.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3FYBZ1,"Eastern Concrete, Howell",Howell,Eastern Concrete,414,kgCO2,2.02,kgSO2,0.5,kgN,0.0000091,kgCFC11,47.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3XYMUH,"Eastern Concrete, Broadway",Broadway,Eastern Concrete,380,kgCO2,1.42,kgSO2,0.46,kgN,0.000009,kgCFC11,31.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3FUSPG,"Eastern Concrete, Bogota",Bogota,Eastern Concrete,384,kgCO2,1.65,kgSO2,0.47,kgN,0.000009,kgCFC11,38.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3F1JQU,"Eastern Concrete, Howell",Howell,Eastern Concrete,416,kgCO2,2.03,kgSO2,0.5,kgN,0.0000091,kgCFC11,48.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WS0MA,"Eastern Concrete, Howell",Howell,Eastern Concrete,339,kgCO2,1.7,kgSO2,0.41,kgN,0.0000073,kgCFC11,40.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3K13N7,"Eastern Concrete, Broadway",Broadway,Eastern Concrete,313,kgCO2,1.24,kgSO2,0.38,kgN,0.0000072,kgCFC11,27.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DJ432,"Eastern Concrete, Bogota",Bogota,Eastern Concrete,314,kgCO2,1.41,kgSO2,0.39,kgN,0.0000072,kgCFC11,32.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TW8DS,"Eastern Concrete, Howell",Howell,Eastern Concrete,328,kgCO2,1.66,kgSO2,0.4,kgN,0.0000071,kgCFC11,39.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3SUYRK,"Eastern Concrete, Broadway",Broadway,Eastern Concrete,303,kgCO2,1.21,kgSO2,0.36,kgN,0.000007,kgCFC11,27,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3NFJGX,"Eastern Concrete, Bogota",Bogota,Eastern Concrete,304,kgCO2,1.37,kgSO2,0.38,kgN,0.000007,kgCFC11,31.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38FNFU,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,234,kgCO2,1.36,kgSO2,0.31,kgN,0.0000071,kgCFC11,30.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3G23PZ,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,334,kgCO2,1.24,kgSO2,0.42,kgN,0.0000091,kgCFC11,26.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3F5J23,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,359,kgCO2,1.36,kgSO2,0.45,kgN,0.0000094,kgCFC11,30.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3048YB,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,342,kgCO2,1.18,kgSO2,0.43,kgN,0.0000092,kgCFC11,24.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3HAX32,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,171,kgCO2,1.18,kgSO2,0.24,kgN,0.000005,kgCFC11,27.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3MM24A,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,298,kgCO2,1.04,kgSO2,0.38,kgN,0.0000079,kgCFC11,22.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3A3M4C,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,361,kgCO2,1.21,kgSO2,0.45,kgN,0.0000096,kgCFC11,25.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC314U2Q,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,192,kgCO2,1.56,kgSO2,0.27,kgN,0.000006,kgCFC11,37.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JCH3Q,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,298,kgCO2,1.57,kgSO2,0.36,kgN,0.0000091,kgCFC11,35.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3KMF2U,"Central Concrete, Redwood City B",Redwood City B,Central Concrete,271,kgCO2,1.41,kgSO2,0.34,kgN,0.0000094,kgCFC11,30.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3F62BC,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,238,kgCO2,1.26,kgSO2,0.32,kgN,0.0000062,kgCFC11,30.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34BTXW,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,329,kgCO2,1.32,kgSO2,0.41,kgN,0.0000086,kgCFC11,30.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3K4MPU,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,333,kgCO2,1.36,kgSO2,0.42,kgN,0.0000088,kgCFC11,30.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC31U3Z4,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,259,kgCO2,1.64,kgSO2,0.34,kgN,0.0000077,kgCFC11,38.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3RJETM,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,270,kgCO2,1.71,kgSO2,0.35,kgN,0.0000081,kgCFC11,39.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ZJYTA,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,419,kgCO2,1.54,kgSO2,0.52,kgN,0.000011,kgCFC11,33.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC33DNPH,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,237,kgCO2,1.5,kgSO2,0.32,kgN,0.000007,kgCFC11,35.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JACST,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,237,kgCO2,1.5,kgSO2,0.32,kgN,0.000007,kgCFC11,35.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3G03YW,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,284,kgCO2,1.18,kgSO2,0.36,kgN,0.0000074,kgCFC11,27.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3J3ZB8,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,310,kgCO2,1.07,kgSO2,0.4,kgN,0.0000074,kgCFC11,24.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3RRW9X,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,289,kgCO2,1.19,kgSO2,0.37,kgN,0.0000076,kgCFC11,27.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3NSXZS,"Central Concrete, Redwood City",Redwood City,Central Concrete,280,kgCO2,1.09,kgSO2,0.35,kgN,0.0000076,kgCFC11,24.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WK45M,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,354,kgCO2,1.16,kgSO2,0.45,kgN,0.0000086,kgCFC11,26.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30SFFB,"Eastern Concrete, Broadway",Broadway,Eastern Concrete,393,kgCO2,1.51,kgSO2,0.46,kgN,0.0000088,kgCFC11,34.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3S4FTQ,"Eastern Concrete, Bogota",Bogota,Eastern Concrete,327,kgCO2,1.45,kgSO2,0.4,kgN,0.0000076,kgCFC11,33.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3D2HK7,"Eastern Concrete, Broadway",Broadway,Eastern Concrete,325,kgCO2,1.28,kgSO2,0.39,kgN,0.0000075,kgCFC11,28.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39PMTW,"Eastern Concrete, Bayonne",Bayonne,Eastern Concrete,317,kgCO2,1.15,kgSO2,0.39,kgN,0.0000075,kgCFC11,24.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3819ZR,"Eastern Concrete, Bogota",Bogota,Eastern Concrete,335,kgCO2,1.51,kgSO2,0.41,kgN,0.0000075,kgCFC11,35.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3C6A84,"Eastern Concrete, Bogota",Bogota,Eastern Concrete,326,kgCO2,1.45,kgSO2,0.4,kgN,0.0000075,kgCFC11,33.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3B9CNR,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,226,kgCO2,1.1,kgSO2,0.31,kgN,0.0000061,kgCFC11,24.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3XCB77,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,314,kgCO2,1.15,kgSO2,0.39,kgN,0.0000085,kgCFC11,24.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ATTSM,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,298,kgCO2,1.09,kgSO2,0.37,kgN,0.0000083,kgCFC11,22.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3K9X3K,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,269,kgCO2,1.3,kgSO2,0.34,kgN,0.0000089,kgCFC11,27,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3BAU5J,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,297,kgCO2,0.92,kgSO2,0.38,kgN,0.0000073,kgCFC11,19.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38DH2S,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,222,kgCO2,1.31,kgSO2,0.3,kgN,0.0000068,kgCFC11,29.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3N044T,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,222,kgCO2,1.31,kgSO2,0.3,kgN,0.0000068,kgCFC11,29.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3UR8TJ,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,268,kgCO2,1,kgSO2,0.34,kgN,0.0000072,kgCFC11,21.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QJ2CY,"Central Concrete, Queens Lane (dry)",Queens Lane (dry),Central Concrete,167,kgCO2,1.17,kgSO2,0.24,kgN,0.000005,kgCFC11,27.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TSKFM,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,295,kgCO2,0.91,kgSO2,0.38,kgN,0.0000073,kgCFC11,19.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3HAUCX,"Central Concrete, Bode",Bode,Central Concrete,274,kgCO2,1.17,kgSO2,0.35,kgN,0.0000085,kgCFC11,25,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TUZ1W,"CEMEX, San Juan Capistrano",San Juan Capistrano,CEMEX,396,kgCO2e,1.49,kgSO2,0.46,kgN,0.0000092,kgCFC11,33.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3F8W0B,"Central Concrete, Bode",Bode,Central Concrete,246,kgCO2,1.35,kgSO2,0.33,kgN,0.0000071,kgCFC11,31,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3952JY,"CEMEX, San Juan Capistrano",San Juan Capistrano,CEMEX,338,kgCO2e,1.37,kgSO2,0.39,kgN,0.0000077,kgCFC11,31,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ZR626,"CEMEX, San Jose",San Jose,CEMEX,258,kgCO2,1.19,kgSO2,0.33,kgN,0.0000071,kgCFC11,25.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3N7CZ8,"CEMEX, San Juan Capistrano",San Juan Capistrano,CEMEX,338,kgCO2e,1.38,kgSO2,0.39,kgN,0.0000077,kgCFC11,31.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QMQSX,"Cadman Inc, Port of Portland",Port of Portland,Cadman Inc,271,kgCO2e,1,kgSO2,0.34,kgN,0.0000071,kgCFC11,22.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Y8YR9,"CEMEX, Compton",Compton,CEMEX,418,kgCO2e,1.35,kgSO2,0.49,kgN,0.00001,kgCFC11,28.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JR6PM,"CEMEX, Compton",Compton,CEMEX,361,kgCO2e,1.21,kgSO2,0.42,kgN,0.0000089,kgCFC11,26.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3S6516,"Cadman Inc, Port of Portland",Port of Portland,Cadman Inc,272,kgCO2e,1.02,kgSO2,0.34,kgN,0.0000072,kgCFC11,23,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30F19Q,"CEMEX, Hollywood",Hollywood,CEMEX,402,kgCO2e,1.23,kgSO2,0.47,kgN,0.00001,kgCFC11,25.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC37D0JY,"CEMEX, Irvine",Irvine,CEMEX,310,kgCO2e,1.04,kgSO2,0.36,kgN,0.0000076,kgCFC11,22.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3BJDMR,"CEMEX, Irvine",Irvine,CEMEX,310,kgCO2e,1.05,kgSO2,0.36,kgN,0.0000077,kgCFC11,22.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Z5A25,"CEMEX, Irvine",Irvine,CEMEX,377,kgCO2e,1.27,kgSO2,0.44,kgN,0.0000091,kgCFC11,27.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC32BK88,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,176,kgCO2e,1.51,kgSO2,0.25,kgN,0.0000062,kgCFC11,34.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3E909Q,"Eastern Concrete, North Bergen",North Bergen,Eastern Concrete,353,kgCO2,1.88,kgSO2,0.42,kgN,0.0000075,kgCFC11,46.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TB4E8,"Eastern Concrete, North Bergen",North Bergen,Eastern Concrete,422,kgCO2,2.2,kgSO2,0.51,kgN,0.000009,kgCFC11,54.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC35H308,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,263,kgCO2,1.5,kgSO2,0.32,kgN,0.0000078,kgCFC11,33.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36RXAE,"Eastern Concrete, North Bergen",North Bergen,Eastern Concrete,353,kgCO2,1.88,kgSO2,0.42,kgN,0.0000075,kgCFC11,46.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3W7DM4,"Eastern Concrete, North Bergen",North Bergen,Eastern Concrete,341,kgCO2,1.8,kgSO2,0.42,kgN,0.0000074,kgCFC11,44.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34BMGM,"Eastern Concrete, North Bergen",North Bergen,Eastern Concrete,353,kgCO2,1.88,kgSO2,0.42,kgN,0.0000075,kgCFC11,46.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QYY1E,"Eastern Concrete, North Bergen",North Bergen,Eastern Concrete,341,kgCO2,1.83,kgSO2,0.41,kgN,0.0000072,kgCFC11,45.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC350MN0,"Eastern Concrete, North Bergen",North Bergen,Eastern Concrete,355,kgCO2,1.9,kgSO2,0.43,kgN,0.0000075,kgCFC11,47,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3CQQAT,"Eastern Concrete, North Bergen",North Bergen,Eastern Concrete,408,kgCO2,2.1,kgSO2,0.49,kgN,0.0000088,kgCFC11,52.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30Z9NQ,"Eastern Concrete, North Bergen",North Bergen,Eastern Concrete,411,kgCO2,2.13,kgSO2,0.5,kgN,0.000009,kgCFC11,52.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3MHEZK,"Eastern Concrete, North Bergen",North Bergen,Eastern Concrete,370,kgCO2,1.96,kgSO2,0.44,kgN,0.0000079,kgCFC11,48.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3E2PR8,"Eastern Concrete, North Bergen",North Bergen,Eastern Concrete,420,kgCO2,2.18,kgSO2,0.5,kgN,0.000009,kgCFC11,53.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3SCCQX,"Eastern Concrete, North Bergen",North Bergen,Eastern Concrete,329,kgCO2,1.78,kgSO2,0.4,kgN,0.000007,kgCFC11,44,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Y0A7P,"Eastern Concrete, Newark",Newark,Eastern Concrete,341,kgCO2,1.72,kgSO2,0.42,kgN,0.0000076,kgCFC11,41.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39HWKG,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,245,kgCO2,1.46,kgSO2,0.32,kgN,0.0000076,kgCFC11,32.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3E3KUG,"CEMEX, Compton",Compton,CEMEX,408,kgCO2e,1.51,kgSO2,0.47,kgN,0.0000096,kgCFC11,33.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3UR7MM,"CEMEX, Compton",Compton,CEMEX,371,kgCO2e,1.38,kgSO2,0.43,kgN,0.0000088,kgCFC11,30.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC303KXQ,"Cadman Inc, Port of Portland",Port of Portland,Cadman Inc,462,kgCO2e,1.46,kgSO2,0.56,kgN,0.000012,kgCFC11,31.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3U03RH,"CEMEX, Los Angeles",Los Angeles,CEMEX,402,kgCO2e,1.23,kgSO2,0.47,kgN,0.00001,kgCFC11,25.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34AG3F,"National Ready Mix, Vernon",Vernon,National Ready Mix,425,kgCO2e,1.25,kgSO2,0.5,kgN,0.000011,kgCFC11,25.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JJJPF,"National Ready Mix, Vernon",Vernon,National Ready Mix,425,kgCO2e,1.25,kgSO2,0.5,kgN,0.000011,kgCFC11,25.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3C77KK,"National Ready Mix, Van Nuys",Van Nuys,National Ready Mix,441,kgCO2e,1.28,kgSO2,0.52,kgN,0.000011,kgCFC11,26.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3SS63F,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,447,kgCO2e,1.35,kgSO2,0.53,kgN,0.000011,kgCFC11,28.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3XBEJT,"National Ready Mix, Sun Valley",Sun Valley,National Ready Mix,388,kgCO2e,1.23,kgSO2,0.46,kgN,0.0000096,kgCFC11,26.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39S3UH,"National Ready Mix, South Gate",South Gate,National Ready Mix,343,kgCO2e,1.13,kgSO2,0.4,kgN,0.0000085,kgCFC11,24.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38R9T3,"National Ready Mix, Irwindale",Irwindale,National Ready Mix,444,kgCO2e,1.31,kgSO2,0.53,kgN,0.000011,kgCFC11,27.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3B2U11,"National Ready Mix, Irwindale",Irwindale,National Ready Mix,347,kgCO2e,1.07,kgSO2,0.42,kgN,0.0000088,kgCFC11,22.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39DUB6,"National Ready Mix, Irwindale",Irwindale,National Ready Mix,302,kgCO2e,0.93,kgSO2,0.36,kgN,0.0000076,kgCFC11,19.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38MRWC,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,363,kgCO2e,1.26,kgSO2,0.43,kgN,0.0000088,kgCFC11,27.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3E5J6W,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,377,kgCO2e,1.25,kgSO2,0.45,kgN,0.0000093,kgCFC11,27,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3E5ME9,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,320,kgCO2e,1.14,kgSO2,0.38,kgN,0.0000076,kgCFC11,24.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ZWYAT,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,303,kgCO2e,1.1,kgSO2,0.36,kgN,0.0000074,kgCFC11,24.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC33S1CJ,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,358,kgCO2e,1.2,kgSO2,0.42,kgN,0.0000089,kgCFC11,26.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34U6KA,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,351,kgCO2e,1.19,kgSO2,0.41,kgN,0.0000086,kgCFC11,25.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3XK3M5,"National Ready Mix, Santa Clarita",Santa Clarita,National Ready Mix,302,kgCO2e,1.09,kgSO2,0.36,kgN,0.0000074,kgCFC11,24.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WH3E2,"National Ready Mix, Moorpark",Moorpark,National Ready Mix,425,kgCO2,1.22,kgSO2,0.5,kgN,0.000011,kgCFC11,25.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3EZ8SN,"National Ready Mix, Moorpark",Moorpark,National Ready Mix,361,kgCO2e,1.06,kgSO2,0.43,kgN,0.0000092,kgCFC11,22.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC37QMXU,"National Ready Mix, Moorpark",Moorpark,National Ready Mix,303,kgCO2e,0.95,kgSO2,0.36,kgN,0.0000075,kgCFC11,19.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3R58TP,"National Ready Mix, Moorpark",Moorpark,National Ready Mix,335,kgCO2e,1,kgSO2,0.4,kgN,0.0000084,kgCFC11,20.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JQTQ1,"National Ready Mix, Irwindale",Irwindale,National Ready Mix,361,kgCO2e,1.05,kgSO2,0.43,kgN,0.0000093,kgCFC11,22,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30CZPS,"National Ready Mix, Irwindale",Irwindale,National Ready Mix,294,kgCO2e,0.91,kgSO2,0.36,kgN,0.0000076,kgCFC11,19.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3R908H,"National Ready Mix, Irwindale",Irwindale,National Ready Mix,334,kgCO2e,0.99,kgSO2,0.4,kgN,0.0000085,kgCFC11,20.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC399KF4,"National Ready Mix, Irvine",Irvine,National Ready Mix,438,kgCO2e,1.38,kgSO2,0.52,kgN,0.000011,kgCFC11,29,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3UXYMY,"National Ready Mix, Irvine",Irvine,National Ready Mix,438,kgCO2e,1.38,kgSO2,0.52,kgN,0.000011,kgCFC11,29,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3R0M0T,"National Ready Mix, Irvine",Irvine,National Ready Mix,330,kgCO2e,1.16,kgSO2,0.39,kgN,0.0000081,kgCFC11,25,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC32ZJ3C,"National Ready Mix, Irvine",Irvine,National Ready Mix,344,kgCO2e,1.16,kgSO2,0.41,kgN,0.0000084,kgCFC11,25.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3YG14F,"National Ready Mix, Irvine",Irvine,National Ready Mix,363,kgCO2e,1.21,kgSO2,0.43,kgN,0.0000089,kgCFC11,25.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3X60SD,"National Ready Mix, Irvine",Irvine,National Ready Mix,425,kgCO2e,1.35,kgSO2,0.5,kgN,0.00001,kgCFC11,28.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3YHP1R,"National Ready Mix, Irvine",Irvine,National Ready Mix,381,kgCO2e,1.25,kgSO2,0.45,kgN,0.0000095,kgCFC11,26.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC312JJC,"National Ready Mix, Irvine",Irvine,National Ready Mix,381,kgCO2e,1.25,kgSO2,0.45,kgN,0.0000095,kgCFC11,26.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34C91T,"National Ready Mix, Irvine",Irvine,National Ready Mix,381,kgCO2e,1.25,kgSO2,0.45,kgN,0.0000095,kgCFC11,26.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3CNNGB,"National Ready Mix, Irvine",Irvine,National Ready Mix,368,kgCO2e,1.22,kgSO2,0.44,kgN,0.0000092,kgCFC11,25.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3427BQ,"National Ready Mix, Irvine",Irvine,National Ready Mix,355,kgCO2e,1.19,kgSO2,0.42,kgN,0.0000087,kgCFC11,24.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GTTJD,"National Ready Mix, Irvine",Irvine,National Ready Mix,367,kgCO2e,1.2,kgSO2,0.44,kgN,0.000009,kgCFC11,25,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC35DKZW,"National Ready Mix, Glendale",Glendale,National Ready Mix,448,kgCO2e,1.36,kgSO2,0.52,kgN,0.000011,kgCFC11,28.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC366TXU,"National Ready Mix, Glendale",Glendale,National Ready Mix,369,kgCO2e,1.15,kgSO2,0.43,kgN,0.0000092,kgCFC11,24.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39SDDP,"National Ready Mix, Glendale",Glendale,National Ready Mix,430,kgCO2e,1.28,kgSO2,0.5,kgN,0.000011,kgCFC11,26.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GFM4X,"National Ready Mix, Glendale",Glendale,National Ready Mix,408,kgCO2e,1.22,kgSO2,0.48,kgN,0.00001,kgCFC11,25.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GFN37,"National Ready Mix, Glendale",Glendale,National Ready Mix,366,kgCO2e,1.12,kgSO2,0.43,kgN,0.0000093,kgCFC11,23.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38KNXK,"National Ready Mix, Glendale",Glendale,National Ready Mix,366,kgCO2e,1.12,kgSO2,0.43,kgN,0.0000093,kgCFC11,23.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3CTC16,"National Ready Mix, Glendale",Glendale,National Ready Mix,308,kgCO2e,1,kgSO2,0.36,kgN,0.0000076,kgCFC11,20.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3MUWYT,"National Ready Mix, Glendale",Glendale,National Ready Mix,347,kgCO2e,1.08,kgSO2,0.41,kgN,0.0000088,kgCFC11,22.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3CPWNU,"National Ready Mix, Glendale",Glendale,National Ready Mix,340,kgCO2e,1.06,kgSO2,0.4,kgN,0.0000085,kgCFC11,22,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34AF03,"National Ready Mix, Glendale",Glendale,National Ready Mix,274,kgCO2e,0.91,kgSO2,0.32,kgN,0.0000069,kgCFC11,19.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3EPBR8,"National Ready Mix, Glendale",Glendale,National Ready Mix,334,kgCO2e,1.04,kgSO2,0.39,kgN,0.0000084,kgCFC11,21.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3EUUHE,"National Ready Mix, Glendale",Glendale,National Ready Mix,343,kgCO2e,1.07,kgSO2,0.4,kgN,0.0000085,kgCFC11,22,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3FAHGE,"National Ready Mix, Glendale",Glendale,National Ready Mix,370,kgCO2e,1.24,kgSO2,0.43,kgN,0.000009,kgCFC11,26,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Y5SJQ,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,372,kgCO2e,1.17,kgSO2,0.43,kgN,0.0000092,kgCFC11,24.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3XZBXC,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,431,kgCO2e,1.29,kgSO2,0.5,kgN,0.000011,kgCFC11,26.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34DY2B,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,409,kgCO2e,1.24,kgSO2,0.48,kgN,0.00001,kgCFC11,25.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30GYEE,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,368,kgCO2e,1.14,kgSO2,0.43,kgN,0.0000092,kgCFC11,24,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3U9C2H,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,368,kgCO2e,1.14,kgSO2,0.43,kgN,0.0000092,kgCFC11,24,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3SW1GY,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,370,kgCO2e,1.15,kgSO2,0.43,kgN,0.0000092,kgCFC11,24.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3KSA3B,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,318,kgCO2e,1.04,kgSO2,0.37,kgN,0.0000079,kgCFC11,22.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PFJMW,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,306,kgCO2e,1.01,kgSO2,0.36,kgN,0.0000076,kgCFC11,21.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC37JRTR,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,354,kgCO2e,1.11,kgSO2,0.41,kgN,0.0000089,kgCFC11,23.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Q91P5,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,306,kgCO2e,1.01,kgSO2,0.36,kgN,0.0000076,kgCFC11,21.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC33W8DA,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,311,kgCO2e,1.07,kgSO2,0.36,kgN,0.0000076,kgCFC11,23.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3HE901,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,287,kgCO2e,0.97,kgSO2,0.34,kgN,0.0000071,kgCFC11,21,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC321E5C,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,302,kgCO2e,1,kgSO2,0.35,kgN,0.0000075,kgCFC11,21.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QHU7M,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,349,kgCO2e,1.09,kgSO2,0.41,kgN,0.0000087,kgCFC11,23,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3SDH0S,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,342,kgCO2e,1.08,kgSO2,0.4,kgN,0.0000084,kgCFC11,22.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3P0S6U,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,345,kgCO2e,1.09,kgSO2,0.4,kgN,0.0000084,kgCFC11,22.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3CCDXZ,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,345,kgCO2e,1.09,kgSO2,0.4,kgN,0.0000084,kgCFC11,22.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Y909E,"National Ready Mix, Canoga Park",Canoga Park,National Ready Mix,294,kgCO2e,0.98,kgSO2,0.34,kgN,0.0000073,kgCFC11,21,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3AGTJ8,"National Ready Mix, Artesia",Artesia,National Ready Mix,351,kgCO2e,1.12,kgSO2,0.41,kgN,0.0000087,kgCFC11,23.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39UCM8,"National Ready Mix, Artesia",Artesia,National Ready Mix,426,kgCO2e,1.26,kgSO2,0.5,kgN,0.000011,kgCFC11,26.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC32JZDK,"National Ready Mix, Artesia",Artesia,National Ready Mix,369,kgCO2e,1.14,kgSO2,0.43,kgN,0.0000092,kgCFC11,24,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3YYRS0,"National Ready Mix, Artesia",Artesia,National Ready Mix,429,kgCO2e,1.27,kgSO2,0.5,kgN,0.000011,kgCFC11,26.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Q2745,"National Ready Mix, Artesia",Artesia,National Ready Mix,409,kgCO2e,1.23,kgSO2,0.48,kgN,0.00001,kgCFC11,25.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3NHR6H,"National Ready Mix, Artesia",Artesia,National Ready Mix,333,kgCO2e,1.05,kgSO2,0.39,kgN,0.0000083,kgCFC11,22.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WPDBY,"National Ready Mix, Artesia",Artesia,National Ready Mix,340,kgCO2e,1.07,kgSO2,0.4,kgN,0.0000085,kgCFC11,22.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3P88PW,"National Ready Mix, Artesia",Artesia,National Ready Mix,412,kgCO2e,1.25,kgSO2,0.49,kgN,0.00001,kgCFC11,25.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DUJ3C,"National Ready Mix, Artesia",Artesia,National Ready Mix,392,kgCO2e,1.17,kgSO2,0.46,kgN,0.0000099,kgCFC11,24.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3C0HUG,"National Ready Mix, Artesia",Artesia,National Ready Mix,394,kgCO2e,1.18,kgSO2,0.46,kgN,0.0000099,kgCFC11,24.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ZW11H,"National Ready Mix, Artesia",Artesia,National Ready Mix,392,kgCO2e,1.17,kgSO2,0.46,kgN,0.0000099,kgCFC11,24.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3T22ZY,"National Ready Mix, Artesia",Artesia,National Ready Mix,322,kgCO2e,1.02,kgSO2,0.38,kgN,0.0000081,kgCFC11,21.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3573EW,"National Ready Mix, Artesia",Artesia,National Ready Mix,367,kgCO2e,1.12,kgSO2,0.43,kgN,0.0000093,kgCFC11,23.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36W83P,"National Ready Mix, Artesia",Artesia,National Ready Mix,306,kgCO2e,0.99,kgSO2,0.36,kgN,0.0000077,kgCFC11,21.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DWHJS,"National Ready Mix, Artesia",Artesia,National Ready Mix,367,kgCO2e,1.12,kgSO2,0.43,kgN,0.0000093,kgCFC11,23.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC31NH89,"National Ready Mix, Artesia",Artesia,National Ready Mix,316,kgCO2e,1.01,kgSO2,0.37,kgN,0.000008,kgCFC11,21.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3FNJ2X,"National Ready Mix, Artesia",Artesia,National Ready Mix,317,kgCO2e,1.02,kgSO2,0.37,kgN,0.000008,kgCFC11,21.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC32J8KX,"National Ready Mix, Artesia",Artesia,National Ready Mix,366,kgCO2e,1.12,kgSO2,0.43,kgN,0.0000093,kgCFC11,23.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JA9RE,"National Ready Mix, Artesia",Artesia,National Ready Mix,366,kgCO2e,1.12,kgSO2,0.43,kgN,0.0000093,kgCFC11,23.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3MB9WJ,"National Ready Mix, Artesia",Artesia,National Ready Mix,366,kgCO2e,1.12,kgSO2,0.43,kgN,0.0000093,kgCFC11,23.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3RDS7G,"National Ready Mix, Artesia",Artesia,National Ready Mix,366,kgCO2e,1.12,kgSO2,0.43,kgN,0.0000092,kgCFC11,23.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC31XAA6,"National Ready Mix, Artesia",Artesia,National Ready Mix,366,kgCO2e,1.12,kgSO2,0.43,kgN,0.0000093,kgCFC11,23.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3AR4CS,"National Ready Mix, Artesia",Artesia,National Ready Mix,366,kgCO2e,1.12,kgSO2,0.43,kgN,0.0000092,kgCFC11,23.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3F3J85,"National Ready Mix, Artesia",Artesia,National Ready Mix,317,kgCO2e,1.02,kgSO2,0.37,kgN,0.000008,kgCFC11,21.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38RJT8,"National Ready Mix, Artesia",Artesia,National Ready Mix,317,kgCO2e,1.01,kgSO2,0.37,kgN,0.000008,kgCFC11,21.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3RK04Z,"National Ready Mix, Artesia",Artesia,National Ready Mix,366,kgCO2e,1.11,kgSO2,0.43,kgN,0.0000092,kgCFC11,23.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3HEHYK,"National Ready Mix, Artesia",Artesia,National Ready Mix,303,kgCO2e,0.98,kgSO2,0.36,kgN,0.0000076,kgCFC11,20.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3J48B0,"National Ready Mix, Artesia",Artesia,National Ready Mix,303,kgCO2e,0.98,kgSO2,0.36,kgN,0.0000076,kgCFC11,20.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3J55D9,"National Ready Mix, Artesia",Artesia,National Ready Mix,303,kgCO2e,0.98,kgSO2,0.36,kgN,0.0000076,kgCFC11,21,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WCST8,"National Ready Mix, Artesia",Artesia,National Ready Mix,284,kgCO2e,0.94,kgSO2,0.34,kgN,0.0000072,kgCFC11,20.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QTM9U,"National Ready Mix, Artesia",Artesia,National Ready Mix,291,kgCO2e,0.95,kgSO2,0.34,kgN,0.0000073,kgCFC11,20.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Q5AU1,"National Ready Mix, Artesia",Artesia,National Ready Mix,347,kgCO2e,1.07,kgSO2,0.41,kgN,0.0000088,kgCFC11,22.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TQ54M,"National Ready Mix, Artesia",Artesia,National Ready Mix,292,kgCO2e,0.95,kgSO2,0.34,kgN,0.0000074,kgCFC11,20.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC392CMU,"National Ready Mix, Artesia",Artesia,National Ready Mix,340,kgCO2e,1.06,kgSO2,0.4,kgN,0.0000085,kgCFC11,21.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC33KTP6,"National Ready Mix, Artesia",Artesia,National Ready Mix,422,kgCO2e,2.23,kgSO2,0.51,kgN,0.000014,kgCFC11,46.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WJGTC,"National Ready Mix, Artesia",Artesia,National Ready Mix,364,kgCO2e,1.16,kgSO2e,0.43,kgNe,0.000009,kgCFC11e,24,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC339NGK,"Hooker Creek Companies, LLC, Redmond",Redmond,"Hooker Creek Companies, LLC",331,kgCO2,1.6,kgSO2,0.39,kgN,0.0000076,kgCFC11,39.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3A4232,"Hooker Creek Companies, LLC, Madras",Madras,"Hooker Creek Companies, LLC",338,kgCO2,1.65,kgSO2,0.41,kgN,0.0000077,kgCFC11,40.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3CBS68,"Hooker Creek Companies, LLC, Bend",Bend,"Hooker Creek Companies, LLC",353,kgCO2,1.68,kgSO2,0.42,kgN,0.000008,kgCFC11,41.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3T9KQE,"Eastern Concrete, West Nyack",West Nyack,Eastern Concrete,298,kgCO2,1.09,kgSO2,0.35,kgN,0.0000078,kgCFC11,24.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3UPGT5,"Eastern Concrete, West Nyack",West Nyack,Eastern Concrete,352,kgCO2,1.2,kgSO2,0.42,kgN,0.0000094,kgCFC11,25.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3R2WUH,"Eastern Concrete, West Nyack",West Nyack,Eastern Concrete,356,kgCO2,1.23,kgSO2,0.42,kgN,0.0000094,kgCFC11,26.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PWXKE,"Eastern Concrete, West Nyack",West Nyack,Eastern Concrete,299,kgCO2,1.1,kgSO2,0.35,kgN,0.0000079,kgCFC11,24.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JY4HQ,"Eastern Concrete, West Nyack",West Nyack,Eastern Concrete,300,kgCO2,1.11,kgSO2,0.35,kgN,0.0000079,kgCFC11,24.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC346BHA,"Eastern Concrete, West Nyack",West Nyack,Eastern Concrete,355,kgCO2,1.22,kgSO2,0.42,kgN,0.0000094,kgCFC11,26.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3MNZ65,"Eastern Concrete, Roseland",Roseland,Eastern Concrete,301,kgCO2,1.06,kgSO2,0.37,kgN,0.0000075,kgCFC11,21.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3N9EZ6,"Eastern Concrete, Roseland",Roseland,Eastern Concrete,355,kgCO2,1.18,kgSO2,0.43,kgN,0.0000089,kgCFC11,23.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JG8SS,"Eastern Concrete, Broadway",Broadway,Eastern Concrete,336,kgCO2,1.35,kgSO2,0.39,kgN,0.0000075,kgCFC11,30.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3EU1ZJ,"Eastern Concrete, Broadway",Broadway,Eastern Concrete,394,kgCO2,1.51,kgSO2,0.47,kgN,0.000009,kgCFC11,33.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3C2YP5,"Eastern Concrete, Broadway",Broadway,Eastern Concrete,325,kgCO2,1.28,kgSO2,0.39,kgN,0.0000075,kgCFC11,28.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3UJ1JK,"Eastern Concrete, Broadway",Broadway,Eastern Concrete,382,kgCO2,1.43,kgSO2,0.46,kgN,0.000009,kgCFC11,31.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC37MZ98,"Eastern Concrete, Bogota",Bogota,Eastern Concrete,384,kgCO2,1.65,kgSO2,0.47,kgN,0.000009,kgCFC11,38.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC33D5E7,"Eastern Concrete, Bogota",Bogota,Eastern Concrete,395,kgCO2,1.73,kgSO2,0.48,kgN,0.000009,kgCFC11,40.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3YM2RT,"Eastern Concrete, Bogota",Bogota,Eastern Concrete,326,kgCO2,1.45,kgSO2,0.4,kgN,0.0000075,kgCFC11,33.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC33ZFQD,"Eastern Concrete, Bogota",Bogota,Eastern Concrete,328,kgCO2,1.46,kgSO2,0.4,kgN,0.0000076,kgCFC11,34.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3W2CRZ,"Eastern Concrete, Bogota",Bogota,Eastern Concrete,386,kgCO2,1.66,kgSO2,0.48,kgN,0.000009,kgCFC11,38.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Y3B4Q,"Eastern Concrete, Bayonne",Bayonne,Eastern Concrete,375,kgCO2,1.3,kgSO2,0.46,kgN,0.000009,kgCFC11,27.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3EAHXD,"Eastern Concrete, Bayonne",Bayonne,Eastern Concrete,307,kgCO2,1.14,kgSO2,0.38,kgN,0.0000072,kgCFC11,24.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38RGDQ,"Concrete Supply Co., Greer, SC","Greer, SC",Concrete Supply Co.,423,kgCO2,1.52,kgSO2,0.52,kgN,0.000011,kgCFC11,32,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3D4QHN,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,250,kgCO2,1.55,kgSO2,0.33,kgN,0.0000073,kgCFC11,36.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3K6DT6,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,348,kgCO2,1.41,kgSO2,0.43,kgN,0.0000093,kgCFC11,31.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3E0EEK,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,182,kgCO2,1.35,kgSO2,0.26,kgN,0.0000051,kgCFC11,32.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC32MS9Q,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,314,kgCO2,1.21,kgSO2,0.4,kgN,0.000008,kgCFC11,27.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39AM0M,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,285,kgCO2,1.16,kgSO2,0.34,kgN,0.0000073,kgCFC11,26.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3G9728,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,378,kgCO2,1.39,kgSO2,0.47,kgN,0.0000098,kgCFC11,30.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3FZ0H4,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,310,kgCO2,1.08,kgSO2,0.4,kgN,0.0000074,kgCFC11,24.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PD63T,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,321,kgCO2,1.31,kgSO2,0.39,kgN,0.0000085,kgCFC11,29.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3B01G6,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,271,kgCO2,0.99,kgSO2,0.35,kgN,0.0000064,kgCFC11,23.5,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GG0GF,"Central Concrete, Bode C",Bode C,Central Concrete,320,kgCO2,1.65,kgSO2,0.41,kgN,0.0000085,kgCFC11,41.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3E0BR9,"Central Concrete, Redwood City B",Redwood City B,Central Concrete,178,kgCO2,1.48,kgSO2,0.24,kgN,0.0000061,kgCFC11,34.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3CKYZ1,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,270,kgCO2,0.99,kgSO2,0.32,kgN,0.0000071,kgCFC11,21.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC373JSN,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,258,kgCO2,0.83,kgSO2,0.34,kgN,0.0000063,kgCFC11,18.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC302Q7J,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,318,kgCO2,1.19,kgSO2,0.4,kgN,0.0000086,kgCFC11,25.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3UGRUU,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,404,kgCO2,1.37,kgSO2,0.5,kgN,0.000011,kgCFC11,28.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC355C28,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,273,kgCO2,1.01,kgSO2,0.35,kgN,0.0000074,kgCFC11,21.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3X9C47,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,339,kgCO2,1,kgSO2,0.43,kgN,0.0000084,kgCFC11,21,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3YEGB0,"Central Concrete, Queens Lane (dry)",Queens Lane (dry),Central Concrete,334,kgCO2,1.04,kgSO2,0.41,kgN,0.0000083,kgCFC11,22.3,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3YA4H4,"Central Concrete, Queens Lane (dry)",Queens Lane (dry),Central Concrete,344,kgCO2,1.03,kgSO2,0.42,kgN,0.0000086,kgCFC11,21.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3RDETK,"CEMEX, South Fresno",South Fresno,CEMEX,294,kgCO2,1.01,kgSO2,0.35,kgN,0.0000073,kgCFC11,21.8,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3G6C07,"CEMEX, Santa Clara",Santa Clara,CEMEX,347,kgCO2e,1.89,kgSO2,0.41,kgN,0.00001,kgCFC11,41.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30J367,"Cadman Inc, Port of Portland",Port of Portland,Cadman Inc,461,kgCO2,1.45,kgSO2,0.56,kgN,0.000012,kgCFC11,31.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC35UB4B,"Cadman Inc, Port of Portland",Port of Portland,Cadman Inc,342,kgCO2,1.18,kgSO2,0.42,kgN,0.0000089,kgCFC11,26.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GW2T9,"Cadman Inc, Orchards",Orchards,Cadman Inc,474,kgCO2,1.59,kgSO2,0.59,kgN,0.000012,kgCFC11,35.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC35MYAN,"Cadman Inc, Orchards",Orchards,Cadman Inc,475,kgCO2,1.6,kgSO2,0.59,kgN,0.000012,kgCFC11,35.4,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC333NAD,"Cadman Inc, Orchards",Orchards,Cadman Inc,280,kgCO2,1.06,kgSO2,0.36,kgN,0.0000071,kgCFC11,24.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3S1YZ5,"Cadman Inc, Orchards",Orchards,Cadman Inc,282,kgCO2,1.08,kgSO2,0.36,kgN,0.0000072,kgCFC11,24.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3N01JD,"Cadman Inc, Orchards",Orchards,Cadman Inc,352,kgCO2,1.25,kgSO2,0.44,kgN,0.0000089,kgCFC11,27.9,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3M2RWG,"Cadman Inc, Foster Road",Foster Road,Cadman Inc,467,kgCO2,1.53,kgSO2,0.56,kgN,0.000012,kgCFC11,33.7,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TRMRR,"Cadman Inc, Foster Road",Foster Road,Cadman Inc,492,kgCO2,1.49,kgSO2,0.58,kgN,0.000012,kgCFC11,32.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39K7PA,"Cadman Inc, Foster Road",Foster Road,Cadman Inc,311,kgCO2,1.24,kgSO2,0.37,kgN,0.0000076,kgCFC11,29.2,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Q9CDK,"Cadman Inc, Foster Road",Foster Road,Cadman Inc,285,kgCO2,1.25,kgSO2,0.34,kgN,0.0000069,kgCFC11,30.1,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3N0QH0,"Cadman Inc, Foster Road",Foster Road,Cadman Inc,370,kgCO2,1.17,kgSO2,0.44,kgN,0.0000094,kgCFC11,25.6,kgO3,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3R9UKU,"Central Concrete, Bode",Bode,Central Concrete,314,kgCO2e,1.49,kgSO2e,0.39,kgNe,0.0000075,kgCFC11e,37.6,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GCDNH,"Central Concrete, Bode B",Bode B,Central Concrete,343,kgCO2e,2.05,kgSO2e,0.44,kgNe,0.0000078,kgCFC11e,55.3,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3EW494,"Central Concrete, Bode C",Bode C,Central Concrete,314,kgCO2e,1.49,kgSO2e,2001,kgNe,0.0000075,kgCFC11e,37.6,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PEN0B,"Central Concrete, Redwood City B",Redwood City B,Central Concrete,291,kgCO2e,1.03,kgSO2e,2001,kgNe,0.0000074,kgCFC11e,21.6,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3K741C,"Central Concrete, Redwood City",Redwood City,Central Concrete,291,kgCO2e,1.03,kgSO2e,2001,kgNe,0.0000074,kgCFC11e,21.6,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3FHKAF,"Central Concrete, South San Francisco (wet)",South San Francisco (wet),Central Concrete,316,kgCO2e,1.48,kgSO2e,2001,kgNe,0.0000074,kgCFC11e,37.2,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3XM2MY,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,217.7,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3EAN8G,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,216.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3KNPBP,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,268.1,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC33WJEA,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,281.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3B7GBH,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,282.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3W9XZ7,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,319,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC389XBC,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,321,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PS4HF,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,266.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DTRJG,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,222.1,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3HWNCC,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,224.7,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3X1C16,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,289.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Y0FPE,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,222.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3XCZKU,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,332.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ZN3Z1,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,329.8,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3C5Y60,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,222,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3U2GD8,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,275.9,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QWN3T,"Central Concrete, Queens Lane",Queens Lane,Central Concrete,282,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3MN8JJ,"Central Concrete, Stockton",Stockton,Central Concrete,268.1,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3EUMMH,"Central Concrete, Stockton",Stockton,Central Concrete,217.7,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34JXUB,"Central Concrete, Stockton",Stockton,Central Concrete,281.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ZY7G1,"Central Concrete, Stockton",Stockton,Central Concrete,216.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC31UQ3H,"Central Concrete, Stockton",Stockton,Central Concrete,266.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3S6K4Y,"Central Concrete, Stockton",Stockton,Central Concrete,321,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC360UU9,"Central Concrete, Stockton",Stockton,Central Concrete,282.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3XFDDM,"Central Concrete, Stockton",Stockton,Central Concrete,222.1,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3BE49Y,"Central Concrete, Stockton",Stockton,Central Concrete,224.7,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3B6WSZ,"Central Concrete, Stockton",Stockton,Central Concrete,319,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3AX9NF,"Central Concrete, Stockton",Stockton,Central Concrete,222.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3S8GKA,"Central Concrete, Stockton",Stockton,Central Concrete,289.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3SCM35,"Central Concrete, Stockton",Stockton,Central Concrete,329.8,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Y7BH6,"Central Concrete, Stockton",Stockton,Central Concrete,332.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39T8TG,"Central Concrete, Stockton",Stockton,Central Concrete,275.9,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3CHBC9,"Central Concrete, Redwood City",Redwood City,Central Concrete,246.8,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3S407H,"Central Concrete, Stockton",Stockton,Central Concrete,222,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC33N3T1,"Central Concrete, Stockton",Stockton,Central Concrete,282,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3UGT31,"Central Concrete, Redwood City",Redwood City,Central Concrete,249.4,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3B3F25,"Central Concrete, Redwood City",Redwood City,Central Concrete,247.4,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Y53AZ,"Central Concrete, Redwood City",Redwood City,Central Concrete,354.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TK493,"Central Concrete, Redwood City",Redwood City,Central Concrete,313.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3NT196,"Central Concrete, Redwood City",Redwood City,Central Concrete,246.8,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC393989,"Central Concrete, Redwood City",Redwood City,Central Concrete,295.4,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JP0SX,"Central Concrete, Redwood City",Redwood City,Central Concrete,295.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ZJR90,"Central Concrete, Redwood City",Redwood City,Central Concrete,300.8,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3W810G,"Central Concrete, Redwood City",Redwood City,Central Concrete,300.4,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC31FZPW,"Central Concrete, Redwood City",Redwood City,Central Concrete,340.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ZXR0E,"Central Concrete, Redwood City",Redwood City,Central Concrete,340.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DQBX8,"Central Concrete, Pleasanton",Pleasanton,Central Concrete,188.5,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC32RWN6,"Central Concrete, Pleasanton",Pleasanton,Central Concrete,191.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PFMEK,"Central Concrete, Pleasanton",Pleasanton,Central Concrete,189,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Y6YKN,"Central Concrete, Pleasanton",Pleasanton,Central Concrete,255.5,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WTBFJ,"Central Concrete, Pleasanton",Pleasanton,Central Concrete,296.9,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3B96ZD,"Central Concrete, Pleasanton",Pleasanton,Central Concrete,188.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC305SD4,"Central Concrete, Pleasanton",Pleasanton,Central Concrete,283.8,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3C2NAE,"Central Concrete, Pleasanton",Pleasanton,Central Concrete,246,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3N4Q01,"Central Concrete, Pleasanton",Pleasanton,Central Concrete,245.7,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3G6Z59,"Central Concrete, Pleasanton",Pleasanton,Central Concrete,232.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30G9Q4,"Central Concrete, Walnut Creek/Martinez",Walnut Creek/Martinez,Central Concrete,201.9,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PGS9N,"Central Concrete, Walnut Creek/Martinez",Walnut Creek/Martinez,Central Concrete,105.1,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3J6EZ6,"Central Concrete, Walnut Creek/Martinez",Walnut Creek/Martinez,Central Concrete,204.7,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC399G22,"Central Concrete, Walnut Creek/Martinez",Walnut Creek/Martinez,Central Concrete,202.5,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC325M2U,"Central Concrete, Walnut Creek/Martinez",Walnut Creek/Martinez,Central Concrete,268.9,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC31Z80S,"Central Concrete, Walnut Creek/Martinez",Walnut Creek/Martinez,Central Concrete,310.5,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC330RTW,"Central Concrete, Walnut Creek/Martinez",Walnut Creek/Martinez,Central Concrete,245.7,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ZTNYG,"Central Concrete, Walnut Creek/Martinez",Walnut Creek/Martinez,Central Concrete,275.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3BMKZQ,"Central Concrete, Walnut Creek/Martinez",Walnut Creek/Martinez,Central Concrete,246,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36G5PQ,"Central Concrete, Walnut Creek/Martinez",Walnut Creek/Martinez,Central Concrete,275.3,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Q9MCX,"Central Concrete, Hayward",Hayward,Central Concrete,202,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3NWG3S,"Central Concrete, Walnut Creek/Martinez",Walnut Creek/Martinez,Central Concrete,202.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QFZMM,"Central Concrete, Hayward",Hayward,Central Concrete,204.7,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TG6HK,"Central Concrete, Walnut Creek/Martinez",Walnut Creek/Martinez,Central Concrete,297.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Q6TJS,"Central Concrete, Brentwood",Brentwood,Central Concrete,231.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WEWS0,"Central Concrete, Brentwood",Brentwood,Central Concrete,252.5,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC35JDKQ,"Central Concrete, Brentwood",Brentwood,Central Concrete,231,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3646XN,"Central Concrete, Brentwood",Brentwood,Central Concrete,304.7,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3X0Y5F,"Central Concrete, Brentwood",Brentwood,Central Concrete,206.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC383H20,"Central Concrete, Brentwood",Brentwood,Central Concrete,267.4,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3RF2QP,"Central Concrete, Brentwood",Brentwood,Central Concrete,205.8,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3558KJ,"Central Concrete, Brentwood",Brentwood,Central Concrete,252.9,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3RCWZN,"Central Concrete, Brentwood",Brentwood,Central Concrete,305.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3YPUC6,"Central Concrete, Brentwood",Brentwood,Central Concrete,305.8,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC31E0F0,"Central Concrete, Hayward",Hayward,Central Concrete,202.5,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Z7RDR,"Central Concrete, Hayward",Hayward,Central Concrete,269,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3HBDZH,"Central Concrete, Hayward",Hayward,Central Concrete,202.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ZJG0K,"Central Concrete, Hayward",Hayward,Central Concrete,310.7,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38XY7J,"Central Concrete, Hayward",Hayward,Central Concrete,297.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3FAGDQ,"Central Concrete, Hayward",Hayward,Central Concrete,271.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3YZP8W,"Central Concrete, Hayward",Hayward,Central Concrete,293.1,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3KQMSE,"Central Concrete, Brentwood",Brentwood,Central Concrete,229.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PWY01,"Central Concrete, Brentwood",Brentwood,Central Concrete,218.9,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3R3ZY3,"Central Concrete, Hayward",Hayward,Central Concrete,288.8,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3YW0XW,"Central Concrete, Brentwood",Brentwood,Central Concrete,215.4,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3FF7UF,"Central Concrete, Hayward",Hayward,Central Concrete,270.9,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3A6H4X,"Central Concrete, Brentwood",Brentwood,Central Concrete,214.3,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3NXNGS,"Central Concrete, Brentwood",Brentwood,Central Concrete,232.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Y1QHA,"Central Concrete, Brentwood",Brentwood,Central Concrete,243,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3NP4ST,"Central Concrete, Brentwood",Brentwood,Central Concrete,221.9,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ZANYE,"Central Concrete, Brentwood",Brentwood,Central Concrete,231.1,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34374P,"Central Concrete, Brentwood",Brentwood,Central Concrete,246.9,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34MT39,"Central Concrete, Brentwood",Brentwood,Central Concrete,251.1,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DF95Y,"Central Concrete, Brentwood",Brentwood,Central Concrete,235.3,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3F10MN,"Central Concrete, Brentwood",Brentwood,Central Concrete,238.9,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QWCMX,"Central Concrete, Brentwood",Brentwood,Central Concrete,267.4,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3NEZK3,"Central Concrete, Brentwood",Brentwood,Central Concrete,297.3,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PTEBZ,"Central Concrete, Brentwood",Brentwood,Central Concrete,271.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC370P2N,"Central Concrete, Brentwood",Brentwood,Central Concrete,286.1,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39A7WC,"Central Concrete, Brentwood",Brentwood,Central Concrete,282.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC341DRN,"Central Concrete, Brentwood",Brentwood,Central Concrete,290.9,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3K4J05,"Central Concrete, Brentwood",Brentwood,Central Concrete,282.1,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TTYHF,"Central Concrete, Brentwood",Brentwood,Central Concrete,268.2,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3XBEW5,"Central Concrete, Brentwood",Brentwood,Central Concrete,275.7,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC37HM4H,"Central Concrete, Brentwood",Brentwood,Central Concrete,276.5,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC360JJ3,"Central Concrete, Brentwood",Brentwood,Central Concrete,272.3,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3FKSYM,"Central Concrete, Brentwood",Brentwood,Central Concrete,302,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3E7ZT7,"Central Concrete, Brentwood",Brentwood,Central Concrete,286.7,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34RD19,"Central Concrete, Brentwood",Brentwood,Central Concrete,279.8,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC32AW7T,"Central Concrete, Brentwood",Brentwood,Central Concrete,295.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PZ9X3,"Central Concrete, Brentwood",Brentwood,Central Concrete,289.3,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3SKAQA,"Central Concrete, Brentwood",Brentwood,Central Concrete,280.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GPS4Q,"Central Concrete, Brentwood",Brentwood,Central Concrete,284.5,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3B5SFE,"Central Concrete, Brentwood",Brentwood,Central Concrete,309.4,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC35S2Y0,"Central Concrete, Brentwood",Brentwood,Central Concrete,294,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DPZP2,"Central Concrete, Brentwood",Brentwood,Central Concrete,314.7,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WADM6,"Central Concrete, Brentwood",Brentwood,Central Concrete,300.3,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3RRQ5T,"Central Concrete, Brentwood",Brentwood,Central Concrete,285.3,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ZCKRN,"Central Concrete, Brentwood",Brentwood,Central Concrete,243.9,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3MNBZ6,"Central Concrete, Brentwood",Brentwood,Central Concrete,243.9,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QM9S9,"Central Concrete, Brentwood",Brentwood,Central Concrete,321.8,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3CEBNH,"Central Concrete, Brentwood",Brentwood,Central Concrete,283.9,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3Z3S6Y,"Central Concrete, Brentwood",Brentwood,Central Concrete,284.4,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3HFB18,"Central Concrete, Brentwood",Brentwood,Central Concrete,284.7,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38ZUXG,"Central Concrete, Brentwood",Brentwood,Central Concrete,211,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WAYSP,"Central Concrete, Brentwood",Brentwood,Central Concrete,316.5,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC390RE4,"Central Concrete, Brentwood",Brentwood,Central Concrete,276.6,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3C2K01,"Central Concrete, Brentwood",Brentwood,Central Concrete,210,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3E4WN3,"Central Concrete, Brentwood",Brentwood,Central Concrete,276.7,kgCO2e,null,null,null,null,null,null,null,null,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34DQ8Z,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,338,kgCO2e,1.08,kgSO2e,2001,kgNe,0.0000085,kgCFC11e,22,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39N80Y,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,145,kgCO2e,0.77,kgSO2e,2001,kgNe,0.0000052,kgCFC11e,14.7,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WFG2H,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,351,kgCO2e,1.11,kgSO2e,2001,kgNe,0.0000088,kgCFC11e,22.5,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ANUKC,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,274,kgCO2e,0.96,kgSO2e,2001,kgNe,0.000007,kgCFC11e,19.5,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JZKNA,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,282,kgCO2e,0.97,kgSO2e,2001,kgNe,0.0000071,kgCFC11e,19.6,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3B9EZC,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,265,kgCO2e,0.9,kgSO2e,2001,kgNe,0.0000067,kgCFC11e,18.5,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3UY3SC,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,203,kgCO2e,0.87,kgSO2e,2001,kgNe,0.000006,kgCFC11e,16.9,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3702KA,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,244,kgCO2e,1.05,kgSO2e,2001,kgNe,0.0000076,kgCFC11e,19.6,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38SRD6,"Central Concrete, Stockton (wet)",Stockton (wet),Central Concrete,228,kgCO2e,0.97,kgSO2e,2001,kgNe,0.0000071,kgCFC11e,18.5,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3F5UUD,"Central Concrete, San Jose Plant No. 2",San Jose Plant No. 2,Central Concrete,338,kgCO2e,1.09,kgSO2e,2001,kgNe,0.0000085,kgCFC11e,22,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3C7F5T,"Central Concrete, San Jose Plant No. 2",San Jose Plant No. 2,Central Concrete,143,kgCO2e,0.76,kgSO2e,2001,kgNe,0.0000051,kgCFC11e,14.5,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3JQ141,"Central Concrete, San Jose Plant No. 2",San Jose Plant No. 2,Central Concrete,274,kgCO2e,0.96,kgSO2e,2001,kgNe,0.000007,kgCFC11e,19.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GXFC4,"Central Concrete, San Jose Plant No. 2",San Jose Plant No. 2,Central Concrete,281,kgCO2e,0.97,kgSO2e,2001,kgNe,0.0000071,kgCFC11e,19.6,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC391NK1,"Central Concrete, San Jose Plant No. 2",San Jose Plant No. 2,Central Concrete,203,kgCO2e,0.87,kgSO2e,2001,kgNe,0.000006,kgCFC11e,16.9,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC31NZ63,"Central Concrete, San Jose Plant No. 2",San Jose Plant No. 2,Central Concrete,265,kgCO2e,0.9,kgSO2e,2001,kgNe,0.0000067,kgCFC11e,18.5,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3D9R32,"Central Concrete, San Jose Plant No. 2",San Jose Plant No. 2,Central Concrete,243,kgCO2e,1.04,kgSO2e,2001,kgNe,0.0000076,kgCFC11e,19.5,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC31R5H1,"Central Concrete, San Jose Plant No. 2",San Jose Plant No. 2,Central Concrete,228,kgCO2e,0.97,kgSO2e,2001,kgNe,0.0000071,kgCFC11e,18.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36TXF7,"Central Concrete, Redwood City B",Redwood City B,Central Concrete,265,kgCO2e,0.95,kgSO2e,2001,kgNe,0.0000067,kgCFC11e,19.9,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3RST7A,"Central Concrete, Redwood City B",Redwood City B,Central Concrete,202,kgCO2e,0.92,kgSO2e,2001,kgNe,0.000006,kgCFC11e,18.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TZ8K0,"Central Concrete, Redwood City B",Redwood City B,Central Concrete,299,kgCO2e,1.11,kgSO2e,2001,kgNe,0.0000077,kgCFC11e,23.5,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3B7MCG,"Central Concrete, South San Francisco (wet)",South San Francisco (wet),Central Concrete,172,kgCO2e,1.23,kgSO2e,2001,kgNe,0.0000054,kgCFC11e,29.6,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3XB5BW,"Central Concrete, Redwood City B",Redwood City B,Central Concrete,241,kgCO2e,1.12,kgSO2e,2001,kgNe,0.0000076,kgCFC11e,22,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34QSUD,"Central Concrete, Redwood City B",Redwood City B,Central Concrete,228,kgCO2e,1.03,kgSO2e,2001,kgNe,0.0000071,kgCFC11e,20.2,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3EZGTE,"Central Concrete, Redwood City",Redwood City,Central Concrete,151,kgCO2e,0.87,kgSO2e,2001,kgNe,0.0000053,kgCFC11e,16.8,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PHX3B,"Central Concrete, South San Francisco (wet)",South San Francisco (wet),Central Concrete,227,kgCO2e,1.34,kgSO2e,2001,kgNe,0.0000064,kgCFC11e,32.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ZEZXY,"Central Concrete, South San Francisco (wet)",South San Francisco (wet),Central Concrete,287,kgCO2e,1.34,kgSO2e,2001,kgNe,0.0000068,kgCFC11e,33.8,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC302NZY,"Central Concrete, South San Francisco (wet)",South San Francisco (wet),Central Concrete,349,kgCO2e,2.02,kgSO2e,2001,kgNe,0.0000078,kgCFC11e,54.1,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3AAGH2,"Central Concrete, South San Francisco (wet)",South San Francisco (wet),Central Concrete,255,kgCO2e,1.51,kgSO2e,2001,kgNe,0.0000072,kgCFC11e,36.6,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3KSJCP,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,207,kgCO2e,0.82,kgSO2e,0.27,kgNe,0.0000068,kgCFC11e,15.1,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30AST2,"Central Concrete, South San Francisco",South San Francisco,Central Concrete,148,kgCO2e,0.77,kgSO2e,2001,kgNe,0.0000052,kgCFC11e,15.1,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC37FH7B,"Central Concrete, Oakland",Oakland,Central Concrete,327,kgCO2e,1,kgSO2e,2001,kgNe,0.0000086,kgCFC11e,20.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3XNNSN,"Central Concrete, Oakland",Oakland,Central Concrete,143,kgCO2e,0.74,kgSO2e,2001,kgNe,0.0000054,kgCFC11e,14,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3HE2NG,"Central Concrete, Oakland",Oakland,Central Concrete,233,kgCO2e,0.97,kgSO2e,2001,kgNe,0.0000075,kgCFC11e,18.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3AMAZG,"Central Concrete, Redwood City B",Redwood City B,Central Concrete,150,kgCO2e,0.86,kgSO2e,2001,kgNe,0.0000053,kgCFC11e,16.7,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC337WHZ,"Central Concrete, Martinez",Martinez,Central Concrete,267,kgCO2e,0.84,kgSO2e,2001,kgNe,0.0000068,kgCFC11e,17.9,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3W4R85,"Central Concrete, Martinez",Martinez,Central Concrete,271,kgCO2e,0.85,kgSO2e,2001,kgNe,0.0000069,kgCFC11e,18.1,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ATKHM,"Central Concrete, Martinez",Martinez,Central Concrete,346,kgCO2e,1.05,kgSO2e,2001,kgNe,0.000009,kgCFC11e,21.5,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3U8J8S,"Central Concrete, Oakland",Oakland,Central Concrete,302,kgCO2e,0.97,kgSO2e,2001,kgNe,0.000008,kgCFC11e,19.8,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3K1UKX,"Central Concrete, Martinez",Martinez,Central Concrete,408,kgCO2e,1.2,kgSO2e,2001,kgNe,0.00001,kgCFC11e,24.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3G5RJH,"Central Concrete, Martinez",Martinez,Central Concrete,344,kgCO2e,1.04,kgSO2e,2001,kgNe,0.0000088,kgCFC11e,21.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3K3DDP,"Central Concrete, Hayward",Hayward,Central Concrete,325,kgCO2e,0.97,kgSO2e,2001,kgNe,0.0000085,kgCFC11e,19.7,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3CYSQ2,"Central Concrete, South San Francisco (wet)",South San Francisco (wet),Central Concrete,285,kgCO2e,1.92,kgSO2e,2001,kgNe,0.0000077,kgCFC11e,49,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ZP91H,"Central Concrete, Hayward",Hayward,Central Concrete,216,kgCO2e,0.87,kgSO2e,2001,kgNe,0.000007,kgCFC11e,16.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3B9UAX,"Central Concrete, Hayward",Hayward,Central Concrete,340,kgCO2e,1.01,kgSO2e,0.42,kgNe,0.0000089,kgCFC11e,20.5,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3S6SY6,"Central Concrete, Bode C",Bode C,Central Concrete,316,kgCO2e,1.95,kgSO2e,2001,kgNe,0.0000071,kgCFC11e,52.8,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3KMZFJ,"Central Concrete, Bode C",Bode C,Central Concrete,279,kgCO2e,1.88,kgSO2e,2001,kgNe,0.0000077,kgCFC11e,48,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QXNZM,"Central Concrete, Bode C",Bode C,Central Concrete,251,kgCO2e,1.49,kgSO2e,2001,kgNe,0.0000072,kgCFC11e,36.2,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3G6RT4,"Central Concrete, Bode B",Bode B,Central Concrete,345,kgCO2e,2.02,kgSO2e,0.45,kgNe,0.0000079,kgCFC11e,54.2,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36GM1H,"Central Concrete, Bode B",Bode B,Central Concrete,316,kgCO2e,1.95,kgSO2e,0.41,kgNe,0.0000071,kgCFC11e,52.8,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3SFMFW,"Central Concrete, Bode B",Bode B,Central Concrete,281,kgCO2e,1.92,kgSO2e,0.38,kgNe,0.0000077,kgCFC11e,49.2,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3MEPS3,"Central Concrete, Bode B",Bode B,Central Concrete,272,kgCO2e,1.91,kgSO2e,0.37,kgNe,0.0000074,kgCFC11e,49.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36329Q,"Central Concrete, Bode",Bode,Central Concrete,320,kgCO2e,1.88,kgSO2e,0.41,kgNe,0.0000073,kgCFC11e,50.6,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3K544B,"Central Concrete, Bode",Bode,Central Concrete,316,kgCO2e,1.95,kgSO2e,0.41,kgNe,0.0000071,kgCFC11e,52.8,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DTXGN,"Central Concrete, Bode",Bode,Central Concrete,254,kgCO2e,1.92,kgSO2e,0.35,kgNe,0.0000067,kgCFC11e,50.9,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3W9YWG,"Central Concrete, Bode",Bode,Central Concrete,345,kgCO2e,2.02,kgSO2e,0.45,kgNe,0.0000079,kgCFC11e,54.2,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC33DX4R,"Central Concrete, Bode",Bode,Central Concrete,251,kgCO2e,1.49,kgSO2e,0.33,kgNe,0.0000072,kgCFC11e,36.2,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC36EDHN,"Central Concrete, Bode",Bode,Central Concrete,279,kgCO2e,1.88,kgSO2e,0.37,kgNe,0.0000077,kgCFC11e,48,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3K2BU2,"Central Concrete, Hayward",Hayward,Central Concrete,252,kgCO2e,0.79,kgSO2e,2001,kgNe,0.0000067,kgCFC11e,16.3,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3WAKSC,"Central Concrete, Bode C",Bode C,Central Concrete,345,kgCO2e,2.02,kgSO2e,2001,kgNe,0.0000079,kgCFC11e,54.2,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PGE6E,"Central Concrete, Oakland",Oakland,Central Concrete,271,kgCO2e,0.86,kgSO2e,2001,kgNe,0.0000072,kgCFC11e,17.8,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34T4WW,"Central Concrete, Oakland",Oakland,Central Concrete,267,kgCO2e,0.86,kgSO2e,2001,kgNe,0.0000071,kgCFC11e,17.7,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GCWUM,"Central Concrete, Oakland",Oakland,Central Concrete,194,kgCO2e,0.8,kgSO2e,2001,kgNe,0.0000061,kgCFC11e,15.6,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3W43H6,"Central Concrete, Oakland",Oakland,Central Concrete,254,kgCO2e,0.8,kgSO2e,2001,kgNe,0.0000066,kgCFC11e,16.6,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3D5H2W,"Central Concrete, Oakland",Oakland,Central Concrete,328,kgCO2e,1,kgSO2e,2001,kgNe,0.0000086,kgCFC11e,20.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3PZ43M,"Central Concrete, Oakland",Oakland,Central Concrete,402,kgCO2e,1.18,kgSO2e,2001,kgNe,0.00001,kgCFC11e,23.8,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38B1GH,"Central Concrete, Oakland",Oakland,Central Concrete,341,kgCO2e,1.03,kgSO2e,2001,kgNe,0.0000089,kgCFC11e,20.9,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3T0XTJ,"Central Concrete, Oakland",Oakland,Central Concrete,341,kgCO2e,1.03,kgSO2e,2001,kgNe,0.0000089,kgCFC11e,20.9,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC37RS17,"Central Concrete, Martinez",Martinez,Central Concrete,328,kgCO2e,0.99,kgSO2e,2001,kgNe,0.0000084,kgCFC11e,20.7,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3AQ5B8,"Central Concrete, Martinez",Martinez,Central Concrete,258,kgCO2e,0.83,kgSO2e,0.31,kgNe,0.0000067,kgCFC11e,17.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3ECH24,"Central Concrete, Martinez",Martinez,Central Concrete,196,kgCO2e,0.8,kgSO2e,0.25,kgNe,0.000006,kgCFC11e,15.9,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TSKAK,"Central Concrete, Martinez",Martinez,Central Concrete,228,kgCO2e,0.91,kgSO2e,0.29,kgNe,0.0000071,kgCFC11e,17.7,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3W4AQR,"Central Concrete, Martinez",Martinez,Central Concrete,344,kgCO2e,1.04,kgSO2e,0.42,kgNe,0.0000088,kgCFC11e,21.5,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3XAM8E,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,260,kgCO2e,0.79,kgSO2e,0.33,kgNe,0.0000071,kgCFC11e,15.3,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34KGYD,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,250,kgCO2e,0.76,kgSO2e,0.31,kgNe,0.0000067,kgCFC11e,15.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3T9E7D,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,188,kgCO2e,0.73,kgSO2e,0.24,kgNe,0.000006,kgCFC11e,13.8,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC38C8UW,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,224,kgCO2e,0.88,kgSO2e,0.3,kgNe,0.0000076,kgCFC11e,15.6,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34FR5U,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,213,kgCO2e,0.84,kgSO2e,0.28,kgNe,0.0000071,kgCFC11e,15.3,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3N8DPW,"Central Concrete, San Jose Plant No. 2",San Jose Plant No. 2,Central Concrete,336,kgCO2e,0.97,kgSO2e,0.41,kgNe,0.0000088,kgCFC11e,19.3,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3X0X2P,"Central Concrete, Pleasanton (wet)",Pleasanton (wet),Central Concrete,325,kgCO2e,0.91,kgSO2e,0.41,kgNe,0.0000088,kgCFC11e,18.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34G9PY,"Central Concrete, Pleasanton (wet)",Pleasanton (wet),Central Concrete,176,kgCO2e,0.67,kgSO2e,0.24,kgNe,0.000006,kgCFC11e,12.8,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3BMDEC,"Central Concrete, Pleasanton (wet)",Pleasanton (wet),Central Concrete,239,kgCO2e,0.7,kgSO2e,0.31,kgNe,0.0000066,kgCFC11e,14.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC37SRP2,"Central Concrete, Pleasanton (wet)",Pleasanton (wet),Central Concrete,203,kgCO2e,0.79,kgSO2e,0.27,kgNe,0.0000071,kgCFC11e,14.8,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC34EXKZ,"Central Concrete, Pleasanton (wet)",Pleasanton (wet),Central Concrete,386,kgCO2e,1.06,kgSO2e,0.48,kgNe,0.00001,kgCFC11e,21.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39MT0E,"Central Concrete, Oakland",Oakland,Central Concrete,341,kgCO2e,1.03,kgSO2e,2001,kgNe,0.0000089,kgCFC11e,21,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3NYJUF,"Central Concrete, Redwood City",Redwood City,Central Concrete,278,kgCO2e,1.04,kgSO2e,0.35,kgNe,0.0000072,kgCFC11e,22.1,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GCBR5,"Central Concrete, Redwood City",Redwood City,Central Concrete,202,kgCO2e,0.92,kgSO2e,0.25,kgNe,0.000006,kgCFC11e,18.4,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3KT18M,"Central Concrete, Redwood City",Redwood City,Central Concrete,265,kgCO2e,0.95,kgSO2e,0.32,kgNe,0.0000067,kgCFC11e,19.9,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC30Q1YR,"Central Concrete, Redwood City",Redwood City,Central Concrete,299,kgCO2e,1.11,kgSO2e,0.37,kgNe,0.0000077,kgCFC11e,23.5,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC39K4MW,"Central Concrete, Redwood City",Redwood City,Central Concrete,241,kgCO2e,1.12,kgSO2e,0.31,kgNe,0.0000076,kgCFC11e,22,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3TB32P,"Central Concrete, Redwood City",Redwood City,Central Concrete,228,kgCO2e,1.03,kgSO2e,0.29,kgNe,0.0000071,kgCFC11e,20.2,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3XMW5E,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,135,kgCO2e,0.68,kgSO2e,0.18,kgNe,0.0000052,kgCFC11e,12.5,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3QX1NU,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,321,kgCO2e,0.94,kgSO2e,0.4,kgNe,0.0000085,kgCFC11e,18.5,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3M8143,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,336,kgCO2e,0.97,kgSO2e,0.41,kgNe,0.0000088,kgCFC11e,19.3,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC32YTMC,"Central Concrete, Redwood City B",Redwood City B,Central Concrete,278,kgCO2e,1.04,kgSO2e,0.35,kgNe,0.0000072,kgCFC11e,22.1,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3DPNHY,"Central Concrete, Queens Lane (wet)",Queens Lane (wet),Central Concrete,252,kgCO2e,0.78,kgSO2e,0.32,kgNe,0.0000069,kgCFC11e,15,kgO3e,TRACI 2.1,Product EPDs,US
+Concrete>>ReadyMix,EC3GWDFG,"Central Concrete, Hayward",Hayward,Central Concrete,190,kgCO2e,0.76,kgSO2e,0.25,kgNe,0.000006,kgCFC11e,14.8,kgO3e,TRACI 2.1,Product EPDs,US
+,,"NRMCA, 2501-3000 psi 50-100 % SCM (FA/SL) Concrete",2501-3000 psi 50-100 % SCM (FA/SL) Concrete,NRMCA,215,,,,,,,,,,,Industry EPDs,US
+,,"NRMCA, 2501-3000 psi 50-100 % SCM (SL) Concrete",2501-3000 psi 50-100 % SCM (SL) Concrete,NRMCA,215,,,,,,,,,,,Industry EPDs,US
+,,"NRMCA, 2501-3000 psi 40-49 % SCM (SL) Concrete",2501-3000 psi 40-49 % SCM (SL) Concrete,NRMCA,241,,,,,,,,,,,Industry EPDs,US
+,,"NRMCA, 2501-3000 psi 30-39 % SCM (SL) Concrete",2501-3000 psi 30-39 % SCM (SL) Concrete,NRMCA,267,,,,,,,,,,,Industry EPDs,US
+,,"NRMCA, 2501-3000 psi 40-49 % SCM (FA) Concrete",2501-3000 psi 40-49 % SCM (FA) Concrete,NRMCA,243,,,,,,,,,,,Industry EPDs,US
+,,"NRMCA, 2501-3000 psi 30-39 % SCM (FA) Concrete",2501-3000 psi 30-39 % SCM (FA) Concrete,NRMCA,271,,,,,,,,,,,Industry EPDs,US
+,,"NRMCA, 2501-3000 psi 20-29 % SCM (FA) Concrete",2501-3000 psi 20-29 % SCM (FA) Concrete,NRMCA,297,,,,,,,,,,,Industry EPDs,US
+,,"NRMCA, 2501-3000 psi 0-19 % SCM (FA/SL) Concrete",2501-3000 psi 0-19 % SCM (FA/SL) Concrete,NRMCA,346,,,,,,,,,,,Industry EPDs,US
+,,"NRMCA, 0-2500 psi 50-100 % SCM (FA/SL) Concrete",0-2500 psi 50-100 % SCM (FA/SL) Concrete,NRMCA,194,,,,,,,,,,,Industry EPDs,US
+,,"NRMCA, 0-2500 psi 50-100 % SCM (SL) Concrete",0-2500 psi 50-100 % SCM (SL) Concrete,NRMCA,195,,,,,,,,,,,Industry EPDs,US
+,,"NRMCA, 0-2500 psi 40-49 % SCM (SL) Concrete",0-2500 psi 40-49 % SCM (SL) Concrete,NRMCA,218,,,,,,,,,,,Industry EPDs,US
+,,"NRMCA, 0-2500 psi 30-39 % SCM (SL) Concrete",0-2500 psi 30-39 % SCM (SL) Concrete,NRMCA,241,,,,,,,,,,,Industry EPDs,US
+,,"NRMCA, 0-2500 psi 40-49 % SCM (FA) Concrete",0-2500 psi 40-49 % SCM (FA) Concrete,NRMCA,219,,,,,,,,,,,Industry EPDs,US
+,,"NRMCA, 0-2500 psi 30-39 % SCM (FA) Concrete",0-2500 psi 30-39 % SCM (FA) Concrete,NRMCA,244,,,,,,,,,,,Industry EPDs,US
+,,"NRMCA, 0-2500 psi 20-29 % SCM (FA) Concrete",0-2500 psi 20-29 % SCM (FA) Concrete,NRMCA,267,,,,,,,,,,,Industry EPDs,US
+,,"NRMCA, 0-2500 psi 0-19 % SCM (FA/SL) Concrete",0-2500 psi 0-19 % SCM (FA/SL) Concrete,NRMCA,310,,,,,,,,,,,Industry EPDs,US
