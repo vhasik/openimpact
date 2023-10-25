@@ -10,11 +10,11 @@ openIMPACT is an initiative to create a comprehensive, open-access environmental
 
 - **Probabilistic Models**: Unlike traditional LCA models that rely on averages, openIMPACT employs probabilistic models. The results capture supply chain scenario probabilities based on market data and dependencies of primary parameters in manufacturing and supply chains. This is achieved by enhancing existing LCA models and leveraging the openIMPACT Monte Carlo Algorithm, which generates impacts for one realistic production (A1-A3) scenario at a time.
 
-- **Methodology**: The project uses a robust methodology to estimate A1-A3 impacts and also encompasses GWP estimates for other life cycle stages.
+- **Methodology**: The project focuses on more robust estimation of A1-A3 (i.e., production) impacts using a Monte Carlo approach, but it also aims to provide data and models for other life cycle stages.
 
 ## Applications
 
-- **Building LCA Tools**: The generated environmental impact data, along with uncertainty ranges, can be integrated into building LCA tools, especially when North American industry estimates are required.
+- **Building LCA Tools**: The generated environmental impact data, along with uncertainty ranges, can be integrated into building LCA tools as generic data.
 
 - **Parameterized Models**: These models can be employed to analyze how environmental impact results vary when parameters are adjusted.
 
