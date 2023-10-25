@@ -12,8 +12,6 @@ openIMPACT is an initiative to create a comprehensive, open-access environmental
 
 - **Methodology**: The project uses a robust methodology to estimate A1-A3 impacts and also encompasses GWP estimates for other life cycle stages.
 
-- **Future Updates**: Upcoming enhancements to openIMPACT include a prototype filtering app, results for more materials and products, additional regions and impact categories, and uncertainty ranges for life cycle stages beyond A1-A3. Integration with EC3 is also on the horizon, making openIMPACT data accessible via the EC3 API.
-
 ## Applications
 
 - **Building LCA Tools**: The generated environmental impact data, along with uncertainty ranges, can be integrated into building LCA tools, especially when North American industry estimates are required.
